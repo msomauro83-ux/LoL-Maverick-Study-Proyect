@@ -1,0 +1,5 @@
+.tools/
+build/
+*.log
+*.keystore
+runtime-check.txt

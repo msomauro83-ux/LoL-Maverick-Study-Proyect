@@ -1,0 +1,22 @@
+LoL Maverick Study Proyect — Android 1.0.1
+10 de noviembre de 2026
+
+Problema confirmado: el empaquetador AAPT2 en Windows había guardado 282
+rutas internas del APK con barras inversas. Android buscaba las imágenes con
+barras normales y por eso mostraba imágenes rotas.
+
+Corrección: normalizar los nombres de las entradas del APK antes de alinear
+y firmar. No se han cambiado las rutas del almacenamiento de notas.
+
+Verificación de la nueva compilación:
+- 293 recursos del APK accesibles exactamente por su ruta Android.
+- 285 imágenes incluidas (PNG, JPG y SVG).
+- Contenido de cada recurso comparado por SHA256 con el archivo original.
+- Firma APK v2 y v3 verificadas.
+- Versión Android aumentada a 1.0.1, código 2.
+
+Instala release/LoL-Maverick-Study-Proyect-1.0.1.apk encima de la app anterior.
+No desinstales la anterior para conservar sus notas, favoritos y progreso.
+
+No se ha comprobado visualmente en un teléfono físico. Esta verificación
+cubre el fallo de empaquetado confirmado y la integridad del APK corregido.

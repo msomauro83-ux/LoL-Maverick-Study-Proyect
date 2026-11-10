@@ -1,0 +1,27 @@
+﻿LoL Maverick Study Proyect — Standard 2.0.0
+10 de noviembre de 2026
+
+Catalogo oficial: 173 campeones, Data Dragon 16.22.1.
+Guias especificas conservadas: 15.
+Orientaciones por arquetipo, identificadas en UI y texto: 158.
+Catalogo de objetos: 215.
+
+Pruebas de datos: cobertura exacta del catalogo oficial, referencias y precios,
+habilidades, recursos, metadatos de filtro, alias y sugerencias.
+Pruebas en Chrome: busqueda, alias, sugerencias, filtros combinados y restablecer,
+A-Z, paginacion, seleccion multiple entre busquedas, pool persistente, conservacion
+de notas al quitar campeones, exportacion de pool, migracion desde una edicion
+anterior, habilidades oficiales, objetos, comparacion y recarga sin conexion.
+Imagen de un campeon nuevo consultado sin conexion: comprobada.
+Disenos: 360/412 px y escritorio 1440 px, sin desbordamiento horizontal.
+
+APK: 613 recursos comprobados por ruta Android y hash de contenido.
+Imagenes: 603 recursos JPG, PNG y SVG con contenido integro.
+Firmas APK v2 y v3 verificadas; misma clave local de las versiones anteriores.
+Paquete: com.maverick.lolstudy, codigo de version 4, version 2.0.0.
+Android minimo API 26 (Android 8); compilado con API 35.
+Tamano APK: 36285145 bytes.
+SHA256 APK: 5163038888DAAF77A0DF7CC4A05D93ACE347913868CC84A3C5F20B6289A31A04
+
+Limite de verificacion: no ejecutado en telefono fisico ni emulador Android.
+Las orientaciones de compra no son una validacion de builds del meta.

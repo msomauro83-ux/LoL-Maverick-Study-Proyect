@@ -1,0 +1,40 @@
+﻿LoL Maverick Study Proyect — Verificacion de la entrega
+Fecha: 10 de noviembre de 2026
+
+Contenido: 14 campeones, 215 objetos, Data Dragon 16.22.1.
+Comprobaciones de datos: fichas, recetas, referencias, precios, estadisticas y recursos presentes.
+Comprobaciones de interfaz en Chrome: filtros AD/AP, favoritos, fases, Kayn,
+notas persistentes, exportacion de texto, wiki, comparacion de objetos,
+borrador de build y recarga sin conexion. Sin excepciones JavaScript observadas.
+Vistas comprobadas: 412 x 915 y 1440 x 1080, sin desbordamiento horizontal.
+
+APK Android: compilado con plataforma API 35 y Build Tools 35.0.0.
+Android minimo: API 26 (Android 8.0).
+Paquete: com.maverick.lolstudy
+Nombre: LoL Maverick Study Proyect
+Version: 1.0.0
+Firma APK v2 y v3: verificadas por apksigner.
+Tamano: 4744992 bytes
+SHA256: FD90EA7874754AAC66AB68E1C207BB3422F1FE3F1B2939BE65CD24EB14CD3DBB
+
+Limitacion: no se ha ejecutado en un telefono fisico ni en un emulador Android.
+Los resultados de navegador no sustituyen la prueba de WebView en el dispositivo.
+
+ACTUALIZACION ANDROID 1.0.1 (codigo 2)
+Corregidas 282 rutas internas con separadores Windows.
+293 recursos y 285 imagenes validados por ruta y SHA256.
+Firma v2 y v3 verificadas con la misma clave local.
+APK actualizado SHA256: 7C3300C35D59E9BD6051C161B05D02B10F7DBC4DE4ABDD523924CC1B99130E82
+No probado visualmente en un telefono fisico.
+
+
+ACTUALIZACION ANDROID 1.0.2 (codigo 3) — Ekko
+Pool ampliado a 15 campeones.
+Ekko: AP, dano principalmente magico, escalado y compras por etapa.
+Imagenes de Ekko incluidas y cargadas en comprobacion de navegador.
+Filtros AP, contadores y referencias de objetos actualizados.
+Pruebas de datos e interfaz completadas; recarga sin conexion comprobada.
+295 recursos del APK y 287 imagenes verificados por ruta y contenido SHA256.
+Firma APK v2 y v3 verificadas con la misma clave local.
+APK SHA256: 12FDB4F519EC31054F82D252787CAEA0DB9282999738D0F3F73547A9D8312FB8
+No probado en un telefono fisico.

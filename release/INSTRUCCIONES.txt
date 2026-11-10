@@ -1,0 +1,96 @@
+LoL Maverick Study Proyect
+Versión 1.0.2 · 10 de noviembre de 2026
+
+INSTALAR EN ANDROID
+
+1. Copia release/LoL-Maverick-Study-Proyect.apk al teléfono.
+2. Abre el archivo desde la app Archivos del teléfono.
+3. Si Android lo solicita, permite instalar desde esa app de archivos y completa la instalación.
+4. Abre LoL Maverick Study Proyect desde tu lista de aplicaciones.
+
+Requiere Android 8.0 o posterior y un Android System WebView actualizado.
+Si ya tienes una versión anterior, instala la 1.0.2 sobre ella sin desinstalar.
+Se conserva el mismo paquete y certificado para mantener tus datos locales.
+La versión 1.0.1 corrige las rutas de las imágenes dentro del APK.
+La versión 1.0.2 agrega a Ekko, sus imágenes y sus prioridades de compra.
+Es un APK de desarrollo firmado localmente. No está publicado en Google Play.
+No requiere cuenta, permisos de Internet ni acceso general al almacenamiento.
+Al exportar texto, tú eliges dónde guardar con el selector de archivos de Android.
+
+QUÉ INCLUYE
+
+- Tus 15 campeones: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV,
+  Wukong, Maestro Yi, Kha'Zix, Diana, Kayn, Vi, Evelynn, Viego y Ekko.
+- Identidad de combate, estadísticas de compra y tipo de daño diferenciados.
+- Explicación del escalado y prioridades de inicio, medio y final.
+- Rutas independientes para Rhaast y Asesino Sombrío.
+- Wiki de 215 objetos comprables de Grieta del Invocador de LoL PC.
+- Estadísticas, precio, venta, componentes, mejoras y ejemplos por campeón.
+- Buscador, filtros, comparación de dos objetos y borrador de build de 6 espacios.
+- Favoritos, marcas de estudiado y notas que se guardan en el dispositivo.
+- Exportación de guía, wiki, fichas, notas y build en archivos .txt.
+- Imágenes y datos incluidos: funciona sin conexión desde la instalación.
+
+ARCHIVOS DE TEXTO
+
+Champion_Pool_Guia.txt: clasificación, escalado y prioridades de compra.
+Wiki_Objetos.txt: catálogo, estadísticas y recetas de los objetos.
+LoL_Maverick_Study_Proyect.txt: guía y wiki juntas en un único archivo.
+
+DATOS Y ALCANCE
+
+Datos oficiales: Riot Data Dragon 16.22.1, correspondientes al parche 26.22.
+Español de Latinoamérica. Fecha de descarga: 10 de noviembre de 2026.
+Las estadísticas y precios vienen del catálogo oficial. Los consejos y perfiles
+de escalado son orientación editorial: no son una medición de winrate ni una
+lista de compras obligatoria. Las fases dependen de niveles y objetos.
+Las cifras dinámicas ausentes en Data Dragon se indican en lugar de inventarlas.
+La app usa una instantánea local; no se actualiza sola al salir otro parche.
+La wiki incluye un catálogo amplio además de las opciones destacadas del pool.
+El borrador de build suma estadísticas base; no simula pasivas ni valida todas
+las restricciones de compra del juego.
+
+Las notas no se sincronizan con la nube. Exporta tus notas antes de desinstalar
+la aplicación o borrar sus datos.
+
+VERSIÓN PARA COMPUTADOR / NAVEGADOR
+
+Abre dist/index.html para ver la misma app directamente en un navegador.
+Para usar el modo PWA sin conexión, sirve dist mediante localhost o HTTPS.
+En Windows puedes ejecutar Abrir-App.ps1 si tienes Node.js o Visual Studio Code.
+Los archivos del sitio son estáticos; no necesitan servidor de datos ni claves.
+
+COMPILAR EL APK O ACTUALIZAR EL CONTENIDO
+
+Los scripts utilizan PowerShell y Node.js 20 o posterior.
+Si no tienes Node.js, Visual Studio Code contiene un motor compatible:
+  $env:ELECTRON_RUN_AS_NODE='1'
+  & 'C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\Code.exe' scripts/build-data.mjs
+
+1. scripts/fetch-riot.mjs descarga el catálogo e imágenes oficiales de Riot.
+2. Edita scripts/champion-guides.mjs para ajustar la orientación de las fichas.
+3. Ejecuta scripts/build-data.mjs para reconstruir textos y datos de la app.
+4. Ejecuta scripts/make-icons.ps1 y scripts/finalize-web.mjs.
+5. Ejecuta scripts/check-data.mjs para comprobar integridad del contenido.
+6. scripts/download-android-tools.ps1 descarga Build Tools 35, plataforma Android 35
+   y el JDK 17 de Microsoft dentro de .tools, sin modificar el PATH del sistema.
+7. Ejecuta scripts/build-android.ps1 para compilar y firmar el APK de desarrollo.
+
+La clave local se guarda en .tools/maverick-development.keystore. Conserva esa
+clave para que las siguientes compilaciones puedan actualizar la app instalada
+sin desinstalar. No se incluye en el ZIP del código fuente.
+
+VERIFICACIÓN
+
+El proyecto incluye comprobaciones de datos y flujos en Chrome, y verifica la
+firma Android del APK. No se ha probado en un teléfono físico ni en un emulador
+Android; esa comprobación queda pendiente en el dispositivo de destino.
+
+FUENTES
+
+https://developer.riotgames.com/docs/lol
+https://ddragon.leagueoflegends.com/cdn/16.22.1/data/es_MX/item.json
+https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-22-notes/
+
+Proyecto independiente, sin afiliación con Riot Games. League of Legends,
+campeones, objetos e imágenes son propiedad de Riot Games.

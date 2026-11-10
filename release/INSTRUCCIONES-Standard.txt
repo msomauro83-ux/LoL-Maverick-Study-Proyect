@@ -1,0 +1,103 @@
+﻿LoL Maverick Study Proyect — STANDARD
+Versión Android 2.0.0 · 10 de noviembre de 2026
+
+INSTALACIÓN / ACTUALIZACIÓN
+
+Abre release/LoL-Maverick-Study-Proyect-Standard-2.0.0.apk en tu teléfono.
+Si ya tienes una versión anterior, instala encima sin desinstalar: mantiene
+el paquete y la misma firma para conservar tus notas, favoritos y progreso.
+Requiere Android 8.0 o posterior y Android System WebView actualizado.
+
+La edición Standard reemplaza el pool fijo por un catálogo completo de los
+173 campeones incluidos en Riot Data Dragon 16.22.1. No necesita conexión.
+En una actualización, los campeones con favoritos, notas o progreso previo
+se incorporan a tu pool si todavía no habías creado uno.
+
+ENCONTRAR Y ELEGIR CAMPEONES
+
+1. Explorar: búsqueda por nombre, ID, alias, clase o estilo. Ignora tildes,
+   espacios y signos. Ejemplos: Kha Zix, ka six, Master Yi, Jarvan4, AP, mid.
+2. Posición: Superior, Jungla, Centro, Tirador y Soporte. Son posiciones
+   orientativas, no un listado de restricciones del juego.
+3. Filtros: combina compra principal (AD/AP/híbrido/tanque/utilidad), clase
+   y tipo de daño. Las etiquetas activas permiten quitar un filtro o restablecer.
+4. A-Z: filtra por inicial. Las consultas recientes permiten volver a una ficha.
+5. Toca una tarjeta para estudiar. Toca + para añadir directamente a tu pool.
+6. Seleccionar: marca varios campeones, incluso entre distintas búsquedas,
+   y pulsa Añadir a mi pool. En Mi pool puedes quitar varios de una vez.
+7. Mi pool: tu selección, ordenada y filtrable. Cambia entre vista compacta
+   y galería. Quitar un campeón del pool no borra sus notas.
+
+QUÉ SE PUEDE CONSULTAR
+
+- Los 173 campeones de la instantánea oficial, con imágenes incluidas.
+- Compra principal, tipo de daño y clases como conceptos diferentes.
+- Habilidades y estadísticas base oficiales.
+- Escalado y prioridades de inicio, medio y final.
+- 15 guías específicas conservadas de la edición personal.
+- 158 orientaciones por arquetipo identificadas expresamente como tales.
+- Wiki de 215 objetos comprables: precio, estadísticas, efectos y recetas.
+- Acceso desde una ficha a los objetos orientativos de ese campeón.
+- Comparación de objetos y borrador de build de seis espacios.
+- Favoritos, notas, progreso y exportación de texto.
+
+ALCANCE DE LOS DATOS
+
+Datos oficiales: Riot Data Dragon 16.22.1, parche 26.22, español LATAM.
+Las clases, estadísticas, habilidades e imágenes se basan en ese catálogo.
+Las posiciones, categorías de compra y prioridades son orientación editorial.
+Las orientaciones por arquetipo no son builds específicas verificadas para
+cada campeón ni estadísticas de victoria. Las rutas alternativas pueden
+necesitar compras distintas: contrasta los ejemplos con el kit y la partida.
+La instantánea no se actualiza automáticamente al salir un parche nuevo.
+LoL PC / Grieta del Invocador. No es una guía de Wild Rift.
+
+NOTAS Y PRIVACIDAD
+
+El pool, consultas recientes, notas, favoritos y progreso se guardan en el
+dispositivo. No se sincronizan a una cuenta. Exporta las notas antes de
+borrar datos o desinstalar. La exportación Android usa el selector del sistema.
+
+ARCHIVOS DE TEXTO
+
+Champion_Pool_Guia.txt: catálogo completo y orientación por campeón.
+Wiki_Objetos.txt: estadísticas, efectos y recetas del catálogo de objetos.
+LoL_Maverick_Study_Proyect.txt: los dos anteriores en un único archivo.
+En la app, Mi pool .txt exporta únicamente los campeones que hayas elegido.
+
+VERSIÓN PARA NAVEGADOR Y CÓDIGO
+
+Abre dist/index.html para consultar la app en un computador.
+Abrir-App.ps1 inicia una vista en localhost si hay Node.js o VS Code.
+La misma interfaz es adaptable a teléfono, tableta y escritorio.
+
+Para actualizar y compilar (Node.js 20+ y PowerShell):
+- scripts/fetch-riot.mjs: descarga catálogo, fichas e imágenes oficiales.
+- scripts/champion-guides.mjs: las guías específicas originales.
+- scripts/standard-guides.mjs: posiciones y orientación por arquetipo.
+- scripts/build-data.mjs: genera datos y archivos de texto.
+- scripts/make-icons.ps1 y scripts/finalize-web.mjs: recursos y caché web.
+- scripts/check-data.mjs: integridad, catálogo completo y búsqueda por alias.
+- scripts/check-browser.mjs: flujos de selección, filtros y persistencia.
+- scripts/download-android-tools.ps1: herramientas locales en .tools.
+- scripts/build-android.ps1: compila, normaliza las rutas de los recursos,
+  valida todo el contenido del APK y firma con la clave local existente.
+
+Conserva .tools/maverick-development.keystore para futuras actualizaciones
+compatibles. La clave y las herramientas no se incluyen en el ZIP del código.
+
+VERIFICACIÓN
+
+Pruebas de datos y flujos en Chrome completadas. Comprobados los diseños
+móviles (360/412 px), escritorio, modo sin conexión y migración del pool.
+El APK se valida por rutas, hashes de recursos y firma. La ejecución en un
+teléfono físico o emulador Android no forma parte de esa comprobación.
+
+FUENTES
+
+https://developer.riotgames.com/docs/lol
+https://ddragon.leagueoflegends.com/cdn/16.22.1/data/es_MX/champion.json
+https://ddragon.leagueoflegends.com/cdn/16.22.1/data/es_MX/item.json
+
+Proyecto independiente, sin afiliación con Riot Games. League of Legends,
+campeones, objetos e imágenes son propiedad de Riot Games.

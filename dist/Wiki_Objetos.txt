@@ -1,0 +1,2993 @@
+LoL Maverick Study Proyect — Wiki de objetos
+Datos oficiales Riot Data Dragon 16.22.1 · 2026-11-10 · Español Latinoamérica
+Catálogo: 215 objetos comprables de Grieta del Invocador, sin variantes especiales de otros modos.
+Opciones destacadas para el pool: 164. Los demás permiten consultar componentes y alternativas.
+Los valores dinámicos ausentes en la fuente se señalan; no se convierten en ceros.
+
+------------------------------------------------------------
+Botas [1001] — 300 oro | Venta 210
+Tipo: Básico | Botas
+25 de Velocidad de Movimiento
+
+
+
+Se construye con: —
+Mejora a: Punteras de Acero Revestidas, Grebas Glotonas, Grebas del Berserker, Botas de Rapidez, Botas del Hechicero, Botas de Mercurio, Botas Jonias de la Lucidez
+Considerado en fichas de: Maestro Yi, Viego, Jax, Diana, Evelynn, Volibear, Ekko, Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Draven, Dr. Mundo, Elise, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viktor, Vladimir, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Amuleto de las Hadas [1004] — 200 oro | Venta 140
+Tipo: Básico | 
+50% de Regen. de Maná Básica
+
+
+
+Se construye con: —
+Mejora a: Ídolo Prohibido, Espejo de Vitrobandle
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Perla de Rejuvenecimiento [1006] — 300 oro | Venta 120
+Tipo: Básico | Defensa
+100% de Regen. de Vida Básica
+
+
+
+Se construye con: —
+Mejora a: Promesa del Caballero, Hábito del Espectro, Brazal Cristalino
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh
+
+------------------------------------------------------------
+Cinturón de Gigante [1011] — 900 oro | Venta 630
+Tipo: Componente | Defensa
+350 de Vida
+
+
+
+Se construye con: Cristal de Rubí
+Mejora a: Corazón de Acero, Arnés de Protoplasma, Armadura de Warmog, Cetro de Cristal de Rylai, Umbral del Invierno, Presagio de Randuin, Hidra Titánica, Jak'Sho, el Proteico, Sierraespada Quimpunk
+Considerado en fichas de: Volibear, Warwick, Jarvan IV, Alistar, Amumu, Blitzcrank, Braum, Cho'Gath, Dr. Mundo, Jax, K'Sante, Leona, Malphite, Maokai, Nautilus, Nunu y Willump, Ornn, Poppy, Rakan, Rammus, Rell, Sejuani, Shen, Sion, Skarner, Tahm Kench, Taric, Thresh, Vi, Zac, Xin Zhao, Nocturne, Wukong, Kayn, Viego, Darius, Garen, Illaoi, Sett, Urgot, Yorick
+
+------------------------------------------------------------
+Capa de Agilidad [1018] — 600 oro | Venta 420
+Tipo: Componente | 
+15% de Probabilidad de Golpe Crítico
+
+
+
+Se construye con: —
+Mejora a: Filo del Infinito, Fervor, Carcaj de Mediodía, Recordatorio Mortal, Saqueador de Esencias, Filo de la Tormenta, El Coleccionista
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Varita Explosiva [1026] — 850 oro | Venta 595
+Tipo: Componente | AP
+45 de Poder de Habilidad
+
+
+
+Se construye con: —
+Mejora a: Actualizador, Maldición del Liche, Báculo del Vacío, Morellonomicón, Diente de Nashor, Ocaso y Alba, Cetro de Cristal de Rylai, Maldad, Esfera del Amanecer, Vara de las Edades
+Considerado en fichas de: Ekko, Diana, Volibear, Ahri, Akali, Aurora, Elise, Evelynn, Fizz, Kassadin, Katarina, LeBlanc, Locke, Nidalee, Azir, Kayle, Teemo, Anivia, Annie, Aurelion Sol, Brand, Cassiopeia, Fiddlesticks, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kennen, Lillia, Lissandra, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra
+
+------------------------------------------------------------
+Cristal de Zafiro [1027] — 300 oro | Venta 210
+Tipo: Básico | 
+300 de Maná
+
+
+
+Se construye con: —
+Mejora a: Escudo Glacial, Capítulo Perdido, Catalizador de Eones
+Considerado en fichas de: Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra, Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Cristal de Rubí [1028] — 400 oro | Venta 280
+Tipo: Básico | Defensa
+150 de Vida
+
+
+
+Se construye con: —
+Mejora a: Placa del Hombre Muerto, Cinturón de Gigante, Égida de Fuego Solar, Excavador de Túneles, Antifaz Embrujado, Gemaluz, Hábito del Espectro, Desesperación Eterna, Tiara Susurrante, Bacteriófago, Guantelete de Sterak, Placa Lunar Alada, Cota de Espinas, Cinturón Cohete Hextech, Lanza de Shojin, Brazal Cristalino, Catalizador de Eones, Fuerza de la Naturaleza, Ceniza de Bami, Guantelete del Hijo del Hielo
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Ekko, Diana, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Kled, Lee Sin, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Yorick, Zaahen, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr, Senna, Ezreal, Gangplank, Ahri, Akali, Aurora, Elise, Evelynn, Fizz, Kassadin, Katarina, Kennen, LeBlanc, Locke, Nidalee, Vladimir, Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Anivia, Aurelion Sol, Azir, Cassiopeia, Karthus, Malzahar, Ryze, Taliyah
+
+------------------------------------------------------------
+Armadura de Tela [1029] — 300 oro | Venta 210
+Tipo: Básico | Defensa
+15 de Armadura
+
+
+
+Se construye con: —
+Mejora a: Guardabrazo Fragmentado, Guardabrazo del Buscador, Cota de Malla, Sello de Acero, Punteras de Acero Revestidas, Escudo Glacial, Convergencia de Zeke, Flautas de Bandle, Vesta Espinosa, Cota del Guardabosques, Relicario de los Solari de Hierro
+Considerado en fichas de: Volibear, Warwick, Jarvan IV, Aatrox, Akshan, Ambessa, Aphelios, Ashe, Bel'Veth, Briar, Caitlyn, Camille, Corki, Darius, Draven, Ezreal, Fiora, Gangplank, Garen, Gnar, Graves, Hecarim, Illaoi, Irelia, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Kayn, Kha'Zix, Kindred, Kled, Kog'Maw, Lee Sin, Lucian, Maestro Yi, Miss Fortune, Wukong, Naafiri, Nasus, Nilah, Nocturne, Olaf, Pantheon, Pyke, Qiyana, Quinn, Rek'Sai, Renekton, Rengar, Riven, Samira, Senna, Sett, Shaco, Sivir, Smolder, Talon, Tristana, Trundle, Tryndamere, Twitch, Urgot, Varus, Vayne, Vi, Viego, Xayah, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Zaahen, Zed, Zeri, Ahri, Akali, Alistar, Amumu, Anivia, Annie, Aurelion Sol, Aurora, Azir, Bardo, Blitzcrank, Brand, Braum, Cassiopeia, Cho'Gath, Diana, Dr. Mundo, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Ivern, Janna, Karma, Karthus, Kassadin, Katarina, Kayle, Kennen, K'Sante, LeBlanc, Leona, Lillia, Lissandra, Locke, Lulu, Lux, Malphite, Malzahar, Maokai, Mel, Milio, Mordekaiser, Morgana, Nami, Nautilus, Neeko, Nidalee, Nunu y Willump, Orianna, Ornn, Poppy, Rakan, Rammus, Rell, Renata Glasc, Rumble, Ryze, Sejuani, Seraphine, Shen, Shyvana, Singed, Sion, Skarner, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Taric, Teemo, Thresh, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Yuumi, Zac, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Cota de Malla [1031] — 800 oro | Venta 560
+Tipo: Componente | Defensa
+40 de Armadura
+
+
+
+Se construye con: Armadura de Tela
+Mejora a: Placa del Hombre Muerto, Égida de Fuego Solar, Promesa del Caballero, Desesperación Eterna, Cota de Espinas, Jak'Sho, el Proteico, Guantelete del Hijo del Hielo
+Considerado en fichas de: Volibear, Warwick, Jarvan IV, Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Jax, Wukong, Kayn, Vi, Viego, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh
+
+------------------------------------------------------------
+Manto Anulamagia [1033] — 400 oro | Venta 280
+Tipo: Básico | Defensa
+20 de Resistencia Mágica
+
+
+
+Se construye con: —
+Mejora a: Capa de Negatrones, Fajín de Mercurio, Convergencia de Zeke, Hábito del Espectro, Flautas de Bandle, Sorbechizos, Botas de Mercurio, Relicario de los Solari de Hierro, Barrera Esmeralda
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lissandra, Locke, Lux, Malzahar, Mel, Morgana, Neeko, Nidalee, Orianna, Ryze, Syndra, Taliyah, Teemo, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zilean, Zoe, Zyra, Aatrox, Akshan, Ambessa, Aphelios, Ashe, Bardo, Briar, Caitlyn, Camille, Corki, Darius, Draven, Ezreal, Fiora, Gangplank, Garen, Gnar, Graves, Hecarim, Illaoi, Ivern, Janna, Jayce, Jhin, Jinx, Karma, Kha'Zix, Kled, Lee Sin, Lucian, Lulu, Milio, Miss Fortune, Naafiri, Nami, Nasus, Nilah, Olaf, Pantheon, Pyke, Qiyana, Quinn, Rek'Sai, Renata Glasc, Renekton, Rengar, Riven, Samira, Senna, Seraphine, Sett, Shaco, Sivir, Smolder, Sona, Soraka, Talon, Tristana, Trundle, Tryndamere, Twitch, Urgot, Xayah, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zed, Zeri
+
+------------------------------------------------------------
+Espada Larga [1036] — 350 oro | Venta 245
+Tipo: Básico | AD
+10 de Daño de Ataque
+
+
+
+Se construye con: —
+Mejora a: Cetro Vampírico, Sello de Acero, Excavador de Túneles, Tiamat, Carcaj de Mediodía, Martillo de Guerra de Caulfield, Hambre Infinita, Espada Fantasma de Youmuu, Manamune, Hexóptica C44, Flechas Salvajes de Yun Tal, Último Suspiro, Bacteriófago, Hacha Hogareña, Sorbechizos, Rectriz, El Llamado del Verdugo, Puñal Serrado, Cicloespada Voltaica, Eclipse
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Ezreal, Aatrox, Akshan, Ambessa, Aphelios, Ashe, Bel'Veth, Briar, Caitlyn, Camille, Corki, Darius, Draven, Fiora, Gangplank, Garen, Gnar, Graves, Hecarim, Illaoi, Irelia, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Kha'Zix, Kindred, Kled, Kog'Maw, Lee Sin, Lucian, Maestro Yi, Miss Fortune, Naafiri, Nasus, Nilah, Olaf, Pantheon, Pyke, Qiyana, Quinn, Rek'Sai, Renekton, Rengar, Riven, Samira, Senna, Sett, Shaco, Sivir, Smolder, Talon, Tristana, Trundle, Tryndamere, Twitch, Urgot, Varus, Vayne, Xayah, Yasuo, Yone, Yorick, Yunara, Zaahen, Zed, Zeri
+
+------------------------------------------------------------
+Picacha [1037] — 875 oro | Venta 613
+Tipo: Componente | AD
+25 de Daño de Ataque
+
+
+
+Se construye con: —
+Mejora a: Cuchilla Oscura, Danza de la Muerte, Filo del Infinito, Espada del Rey Arruinado, El Brutalizador, Hambre Infinita, Navaja de Statikk, Colmillo de Serpiente, Hexóptica C44, Guantelete de Sterak, La Sanguinaria, Espadafuria de Guinsoo, Rompecascos, Cimitarra Mercurial, Lanza de Shojin, Arcoescudo Inmortal, El Coleccionista, Eclipse
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri, Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Kled, Lee Sin, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Yorick, Zaahen, Ezreal, Bel'Veth, Irelia, Kai'Sa, Kalista, Kayle, Kindred, Kog'Maw, Maestro Yi, Teemo, Varus, Vayne, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Espadón [1038] — 1300 oro | Venta 910
+Tipo: Componente | AD
+40 de Daño de Ataque
+
+
+
+Se construye con: —
+Mejora a: Filo del Infinito, Ángel Guardián, Flechas Salvajes de Yun Tal, La Sanguinaria, Filo de la Tormenta
+Considerado en fichas de: Aatrox, Akshan, Ambessa, Aphelios, Ashe, Bel'Veth, Briar, Caitlyn, Camille, Corki, Darius, Draven, Ezreal, Fiora, Gangplank, Garen, Gnar, Graves, Hecarim, Illaoi, Irelia, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Kayn, Kha'Zix, Kindred, Kled, Kog'Maw, Lee Sin, Lucian, Maestro Yi, Miss Fortune, Wukong, Naafiri, Nasus, Nilah, Nocturne, Olaf, Pantheon, Pyke, Qiyana, Quinn, Rek'Sai, Renekton, Rengar, Riven, Samira, Senna, Sett, Shaco, Sivir, Smolder, Talon, Tristana, Trundle, Tryndamere, Twitch, Urgot, Varus, Vayne, Vi, Viego, Warwick, Xayah, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Zaahen, Zed, Zeri
+
+------------------------------------------------------------
+Daga [1042] — 250 oro | Venta 175
+Tipo: Básico | Ataques
+10% de Velocidad de Ataque
+
+
+
+Se construye con: —
+Mejora a: Arco Recurvado, Fervor, Ocaso y Alba, Grebas del Berserker, Bailarín Espectral, Hacha Hogareña, Placa Hexperimental, Honda del Explorador, Rompeavances, Cuchilla Rauda de Navori
+Considerado en fichas de: Ekko, Diana, Volibear, Maestro Yi, Viego, Jax, Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Graves, Jayce, Jinx, Lucian, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Xayah, Yunara, Zeri, Gangplank, Nilah, Tryndamere, Yasuo, Yone, Nocturne, Briar, Camille, Ezreal, Fiora, Gnar, Kled, Wukong, Nasus, Olaf, Pantheon, Trundle, Zaahen, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Varus, Vayne, Jhin, Senna, Azir, Kayle, Teemo, Warwick, Darius, Garen, Illaoi, Sett, Urgot, Yorick
+
+------------------------------------------------------------
+Arco Recurvado [1043] — 700 oro | Venta 490
+Tipo: Componente | Ataques
+15% de Velocidad de Ataque
+
+Aguijón
+Los ataques infligen 15 de daño físico adicional al impacto.
+
+Se construye con: Daga
+Mejora a: Terminus, Espada del Rey Arruinado, Diente de Nashor, Matakrakens, Al Filo de la Cordura, Espadafuria de Guinsoo
+Considerado en fichas de: Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Viego, Jax, Azir, Diana, Ekko, Kayle, Teemo, Volibear, Nilah, Tryndamere, Warwick, Yasuo, Yone, Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Graves, Jayce, Jinx, Lucian, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Xayah, Yunara, Zeri
+
+------------------------------------------------------------
+Libro Amplificador [1052] — 400 oro | Venta 280
+Tipo: Básico | AP
+20 de Poder de Habilidad
+
+
+
+Se construye con: —
+Mejora a: Brisa de Éter, Guardabrazo Fragmentado, Guardabrazo del Buscador, Alternador Hextech, Orbe del Olvido, Antifaz Embrujado, Sablepistola Hextech, Capítulo Perdido, Mandato Imperial, Cenizas Predestinadas, Códice Diabólico, Cetro de Cristal de Rylai, Espadafuria de Guinsoo, Joya Maldita, Enfoque al Horizonte, Barrera Esmeralda, Espejo de Vitrobandle
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean, Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra, Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah, Ahri, Akali, Aurora, Ekko, Elise, Evelynn, Fizz, Kassadin, Katarina, LeBlanc, Locke, Nidalee, Azir, Diana, Galio, Gragas, Gwen, Kayle, Kennen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Sylas, Teemo, Udyr, Vladimir, Volibear, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Viego, Jax
+
+------------------------------------------------------------
+Cetro Vampírico [1053] — 900 oro | Venta 630
+Tipo: Componente | AD
+15 de Daño de Ataque
+7% de Robo de Vida
+
+
+
+Se construye con: Espada Larga
+Mejora a: Espada del Rey Arruinado, Sablepistola Hextech, La Sanguinaria, Hidra Voraz, Cimitarra Mercurial
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Ezreal, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri, Jax, Warwick, Wukong, Kha'Zix, Kayn, Nocturne, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Viego
+
+------------------------------------------------------------
+Escudo de Doran [1054] — 450 oro | Venta 180
+Tipo: Básico | Defensa
+110 de Vida
+
+Concentración Tenaz
+Recuperas 4 de Vida cada 5 seg. 
+Tras recibir daño de un campeón, restauras vida a lo largo de 8 seg.
+
+Una Ayudita
+Los ataques infligen 5 de daño físico adicional a súbditos.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Espada de Doran [1055] — 450 oro | Venta 180
+Tipo: Básico | AD, Defensa
+10 de Daño de Ataque
+80 de Vida
+2.5% de Omnivampirismo
+
+
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Sortija de Doran [1056] — 400 oro | Venta 160
+Tipo: Básico | AP, Defensa
+18 de Poder de Habilidad
+90 de Vida
+
+Drenar:
+Restaura 1 de Maná por segundo y aumenta a 2 de Maná por segundo durante 5 seg después de infligir daño a un campeón enemigo. Si no puedes obtener maná, cura un 45% de este valor.
+
+Una Ayudita
+Los ataques infligen 5 de daño físico adicional a súbditos.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Capa de Negatrones [1057] — 850 oro | Venta 595
+Tipo: Componente | Defensa
+45 de Resistencia Mágica
+
+
+
+Se construye con: Manto Anulamagia
+Mejora a: Rukerno Kaénico, Máscara Abisal, Al Filo de la Cordura, Jak'Sho, el Proteico, Fuerza de la Naturaleza
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh
+
+------------------------------------------------------------
+Vara Innecesariamente Grande [1058] — 1200 oro | Venta 840
+Tipo: Componente | AP
+65 de Poder de Habilidad
+
+
+
+Se construye con: —
+Mejora a: Reloj de Arena de Zhonya, Lumbría, Sombrero Mortífero de Rabadon, Velo de la Banshee
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lissandra, Locke, Lux, Malzahar, Mel, Morgana, Neeko, Nidalee, Orianna, Ryze, Syndra, Taliyah, Teemo, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra, Volibear, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr, Zilean
+
+------------------------------------------------------------
+El Sello de la Oscuridad [1082] — 350 oro | Venta 140
+Tipo: Básico | AP, Defensa
+15 de Poder de Habilidad
+50 de Vida
+
+Gloria
+Los derribos otorgan Gloria (hasta 10). Pierdes 5 de Gloria al morir.
+Obtienes 4 de Poder de Habilidad por cada acumulación de Gloria.
+
+Se construye con: —
+Mejora a: Robaalmas de Mejai
+Considerado en fichas de: Diana, Evelynn, Volibear, Ekko
+
+------------------------------------------------------------
+Sacrificar [1083] — 450 oro | Venta 180
+Tipo: Básico | AD
+7 de Daño de Ataque
+
+Cosechar
+Restaura 3 de Vida al impacto.
+Matar súbditos otorga 1 de oro, hasta 100. Alcanzar el límite otorga 350 de oro adicional.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Arco de Doran [1086] — 400 oro | Venta 160
+Tipo: Básico | AD, Ataques
+7 de Daño de Ataque
+15% de Velocidad de Ataque
+1.5% de Omnivampirismo
+
+
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Cachorro de Rasgafuegos [1101] — 450 oro | Venta 0
+Tipo: Básico | 
+
+Compañeros de la Jungla
+Invocas un Rasgafuegos que te ayuda a pelear contra los monstruos.
+
+El compañero crece conforme cazas monstruos, lo que potencia tu Castigo. Cuando el compañero alcanza la madurez, completas tu misión de jungla. Además, cada cierto tiempo, tu próximo ataque o habilidad quema a los enemigos y los ralentiza. Al derribar monstruos grandes, obtienes el efecto al instante.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Amumu, Bel'Veth, Brand, Briar, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Gragas, Graves, Gwen, Hecarim, Ivern, Jarvan IV, Jax, Karthus, Kayn, Kha'Zix, Kindred, Lee Sin, Lillia, Maestro Yi, Wukong, Morgana, Naafiri, Nidalee, Nocturne, Nunu y Willump, Olaf, Pantheon, Poppy, Rammus, Rek'Sai, Rengar, Sejuani, Shaco, Shyvana, Skarner, Sylas, Taliyah, Talon, Trundle, Udyr, Vi, Viego, Volibear, Warwick, Xin Zhao, Zaahen, Zac, Zed, Zyra
+
+------------------------------------------------------------
+Cría de Trotabrisas [1102] — 450 oro | Venta 0
+Tipo: Básico | 
+
+Compañeros de la Jungla
+Invocas un Trotabrisas que te ayuda a pelear contra los monstruos.
+
+El compañero crece conforme cazas monstruos, lo que potencia tu Castigo. Cuando el compañero alcanza la madurez, completas tu misión de jungla. Además, obtienes velocidad de movimiento al entrar a la maleza, que aumenta al derribar monstruos grandes.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Amumu, Bel'Veth, Brand, Briar, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Gragas, Graves, Gwen, Hecarim, Ivern, Jarvan IV, Jax, Karthus, Kayn, Kha'Zix, Kindred, Lee Sin, Lillia, Maestro Yi, Wukong, Morgana, Naafiri, Nidalee, Nocturne, Nunu y Willump, Olaf, Pantheon, Poppy, Rammus, Rek'Sai, Rengar, Sejuani, Shaco, Shyvana, Skarner, Sylas, Taliyah, Talon, Trundle, Udyr, Vi, Viego, Volibear, Warwick, Xin Zhao, Zaahen, Zac, Zed, Zyra
+
+------------------------------------------------------------
+Retoño de Pisamusgo [1103] — 450 oro | Venta 0
+Tipo: Básico | 
+
+Compañeros de la Jungla
+Invocas un Pisamusgo que te ayuda a pelear contra los monstruos.
+
+El compañero crece conforme cazas monstruos, lo que potencia tu Castigo. Cuando el compañero alcanza la madurez, completas tu misión de jungla. Además, obtienes un escudo mientras estás fuera de combate y después de derribar monstruos grandes.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Amumu, Bel'Veth, Brand, Briar, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Gragas, Graves, Gwen, Hecarim, Ivern, Jarvan IV, Jax, Karthus, Kayn, Kha'Zix, Kindred, Lee Sin, Lillia, Maestro Yi, Wukong, Morgana, Naafiri, Nidalee, Nocturne, Nunu y Willump, Olaf, Pantheon, Poppy, Rammus, Rek'Sai, Rengar, Sejuani, Shaco, Shyvana, Skarner, Sylas, Taliyah, Talon, Trundle, Udyr, Vi, Viego, Volibear, Warwick, Xin Zhao, Zaahen, Zac, Zed, Zyra
+
+------------------------------------------------------------
+Retoño de Pisamusgo [1105] — 450 oro | Venta 180
+Tipo: Básico | 
+
+Compañeros de la Jungla
+Invocas un Pisamusgo que te ayuda a pelear contra los monstruos.
+
+El compañero crece conforme cazas monstruos, lo que potencia tu Castigo. Cuando el compañero alcanza la madurez, completas tu misión de jungla. Además, obtienes un escudo mientras estás fuera de combate y después de derribar monstruos grandes.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Cría de Trotabrisas [1106] — 450 oro | Venta 180
+Tipo: Básico | 
+
+Compañeros de la Jungla
+Invocas un Trotabrisas que te ayuda a pelear contra los monstruos.
+
+El compañero crece conforme cazas monstruos, lo que potencia tu Castigo. Cuando el compañero alcanza la madurez, completas tu misión de jungla. Además, obtienes velocidad de movimiento al entrar a la maleza, que aumenta al derribar monstruos grandes.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Cachorro de Rasgafuegos [1107] — 450 oro | Venta 180
+Tipo: Básico | 
+
+Compañeros de la Jungla
+Invocas un Rasgafuegos que te ayuda a pelear contra los monstruos.
+
+El compañero crece conforme cazas monstruos, lo que potencia tu Castigo. Cuando el compañero alcanza la madurez, completas tu misión de jungla. Además, cada cierto tiempo, tu próximo ataque o habilidad quema a los enemigos y los ralentiza. Al derribar monstruos grandes, obtienes el efecto al instante.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Casco de Doran [1120] — 450 oro | Venta 180
+Tipo: Básico | Defensa
+150 de Vida
+8 de Armadura
+8 de Resistencia Mágica
+
+Una Ayudita
+Los ataques infligen 5 de daño físico adicional contra súbditos.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Poción de Vida [2003] — 50 oro | Venta 20
+Tipo: Básico | 
+
+Voracidad
+Restaura 120 de Vida a lo largo de 15 seg.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Sello de Acero [2019] — 1100 oro | Venta 770
+Tipo: Componente | AD, Defensa
+15 de Daño de Ataque
+30 de Armadura
+
+
+
+Se construye con: Armadura de Tela, Espada Larga, Armadura de Tela
+Mejora a: Danza de la Muerte, Ángel Guardián
+Considerado en fichas de: Aatrox, Akshan, Ambessa, Aphelios, Ashe, Bel'Veth, Briar, Caitlyn, Camille, Corki, Darius, Draven, Ezreal, Fiora, Gangplank, Garen, Gnar, Graves, Hecarim, Illaoi, Irelia, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Kayn, Kha'Zix, Kindred, Kled, Kog'Maw, Lee Sin, Lucian, Maestro Yi, Miss Fortune, Wukong, Naafiri, Nasus, Nilah, Nocturne, Olaf, Pantheon, Pyke, Qiyana, Quinn, Rek'Sai, Renekton, Rengar, Riven, Samira, Senna, Sett, Shaco, Sivir, Smolder, Talon, Tristana, Trundle, Tryndamere, Twitch, Urgot, Varus, Vayne, Vi, Viego, Warwick, Xayah, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Zaahen, Zed, Zeri
+
+------------------------------------------------------------
+El Brutalizador [2020] — 1337 oro | Venta 936
+Tipo: Componente | AD, Aceleración, Letalidad
+25 de Daño de Ataque
+10 de Aceleración de Habilidad
+5 de Letalidad
+
+
+
+Se construye con: Mena Brillante, Picacha
+Mejora a: Hidra Profana, Rompebastiones, Cicloespada Voltaica, Arco Axiomático
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Qiyana, Rengar, Shaco, Talon, Zed, Pyke
+
+------------------------------------------------------------
+Excavador de Túneles [2021] — 1150 oro | Venta 805
+Tipo: Componente | AD, Defensa
+15 de Daño de Ataque
+250 de Vida
+
+
+
+Se construye con: Espada Larga, Cristal de Rubí
+Mejora a: Cota Sangrienta del Soberano, Guantelete de Sterak, Placa Hexperimental, Filo de la Noche, Rompecascos, Lanza de Shojin, Hidra Titánica, Cielo Desgarrado
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Kled, Lee Sin, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Yorick, Zaahen, Ezreal, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Mena Brillante [2022] — 250 oro | Venta 175
+Tipo: Básico | Aceleración
+5 de Aceleración de Habilidad
+
+
+
+Se construye con: —
+Mejora a: El Brutalizador, Escudo Glacial, Martillo de Guerra de Caulfield, Capítulo Perdido, Gemaluz, Brillo, Códice Diabólico, Botas Jonias de la Lucidez, Espejo de Vitrobandle, Ceniza de Bami
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean, Volibear, Warwick, Jarvan IV, Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra, Ekko, Diana, Xin Zhao, Nocturne, Jax, Wukong, Kayn, Vi, Viego, Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah, Ezreal, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Amumu, Cho'Gath, Dr. Mundo, Galio, Gragas, Gwen, K'Sante, Lillia, Malphite, Maokai, Mordekaiser, Nunu y Willump, Ornn, Poppy, Rammus, Rumble, Sejuani, Shen, Shyvana, Singed, Sion, Skarner, Sylas, Tahm Kench, Udyr, Zac, Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Kled, Lee Sin, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Senna, Sett, Trundle, Urgot, Yorick, Zaahen, Gangplank, Ahri, Akali, Aurora, Elise, Evelynn, Fizz, Kassadin, Katarina, LeBlanc, Locke, Nidalee, Azir, Kayle, Teemo, Kennen, Vladimir, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Varus, Vayne, Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Graves, Jayce, Jhin, Jinx, Kha'Zix, Lucian, Maestro Yi, Miss Fortune, Naafiri, Nilah, Pyke, Qiyana, Quinn, Rengar, Samira, Shaco, Sivir, Smolder, Talon, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zed, Zeri
+
+------------------------------------------------------------
+Poción Reutilizable [2031] — 150 oro | Venta 60
+Tipo: Básico | 
+
+Activa (2 cargas)
+Restaura 100 de Vida a lo largo de 12 seg. 
+Se rellena al visitar la tienda.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Cuerno del Guardián [2051] — 950 oro | Venta 665
+Tipo: Completo | Defensa
+150 de Vida
+
+Restauración: Restaura 20 de Vida cada 5 seg.Osadía: Bloquea 15 de daño de los ataques y hechizos de campeones (25% de efectividad contra habilidades de daño prolongado).
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Centinela de Control [2055] — 75 oro | Venta 30
+Tipo: Básico | 
+
+Consumible
+Coloca un Centinela de Control que otorga visión y revela los Centinelas Invisibles, las trampas y los enemigos camuflados.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Canto de Guerra de Shurelya [2065] — 2200 oro | Venta 1540
+Tipo: Completo | AP, Aceleración
+50 de Poder de Habilidad
+15 de Aceleración de Habilidad
+4% de Velocidad de Movimiento
+125% de Regen. de Maná Básica
+
+Discurso Inspirador
+Otorga a los aliados cercanos un 30% de Velocidad de Movimiento durante 4 seg.
+
+Se construye con: Brisa de Éter, Espejo de Vitrobandle
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Elixir de Hierro [2138] — 500 oro | Venta 200
+Tipo: Básico | 
+
+Consumible
+Otorga 300 de Vida, un 25% de Tenacidad y tamaño aumentado durante 3 min. Mientras dure el efecto, dejas una estela tras de tí que aumenta la Velocidad de Movimiento de los campeones aliados en un 15%.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Elixir de Brujería [2139] — 500 oro | Venta 200
+Tipo: Básico | 
+
+Consumible
+Otorga 50 de Poder de Habilidad y un 15% de Regen. de Maná durante 3 min. Mientras está activa, infligir daño a un campeón o una torreta inflige 25 de daño verdadero adicional (5 seg contra campeones).
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Elixir de Furia [2140] — 500 oro | Venta 200
+Tipo: Básico | 
+
+Consumible
+Otorga 30 de Daño de Ataque y un 12% de Vampirismo Físico contra campeones durante 3 min.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Juguito de Gorrito [2141] — 300 oro | Venta 300
+Tipo: Básico | 
+
+Te ayuda a ir con la cabeza en alto.Activa, Consumir: Este jugo no hace nada.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Guardabrazo del Buscador [2420] — 1600 oro | Venta 640
+Tipo: Componente | AP, Defensa
+40 de Poder de Habilidad
+25 de Armadura
+
+Detener el Tiempo (Un solo uso):
+Entra en Estasis durante 2.5 seg.
+
+Se construye con: Libro Amplificador, Armadura de Tela, Libro Amplificador
+Mejora a: Reloj de Arena de Zhonya
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lillia, Lissandra, Locke, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Nidalee, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Teemo, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra, Volibear
+
+------------------------------------------------------------
+Guardabrazo Fragmentado [2421] — 1600 oro | Venta 640
+Tipo: Componente | AP, Defensa
+40 de Poder de Habilidad
+25 de Armadura
+
+Tiempo Fragmentado
+El Guardabrazo se destruye, pero aún puede mejorarse.
+
+Tras destruir un Guardabrazo, el vendedor solo te venderá Guardabrazo Fragmentado.
+
+Se construye con: Libro Amplificador, Armadura de Tela, Libro Amplificador
+Mejora a: Reloj de Arena de Zhonya
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Cota Sangrienta del Soberano [2501] — 3300 oro | Venta 2310
+Tipo: Completo | AD, Defensa
+40 de Daño de Ataque
+550 de Vida
+
+Tiranía
+Obtienes un 2.5% de tu Vida adicional como Daño de Ataque. 
+
+Reprensión
+Obtienes hasta un 10% de Daño de Ataque aumentado según el porcentaje de tu vida faltante.
+
+Se construye con: Excavador de Túneles, Excavador de Túneles
+Mejora a: —
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Desesperación Eterna [2502] — 2800 oro | Venta 1960
+Tipo: Completo | Defensa, Aceleración
+400 de Vida
+50 de Armadura
+15 de Aceleración de Habilidad
+
+Angustia
+Cada 4 seg en combate contra campeones, infliges daño mágico a campeones enemigos cercanos y te curas por un 250% del daño infligido.
+
+Se construye con: Cota de Malla, Gemaluz, Cristal de Rubí
+Mejora a: —
+Considerado en fichas de: Volibear, Warwick, Jarvan IV
+
+------------------------------------------------------------
+Antorcha de Fuegoscuro [2503] — 2800 oro | Venta 1960
+Tipo: Completo | AP, Aceleración
+80 de Poder de Habilidad
+600 de Maná
+20 de Aceleración de Habilidad
+
+Llamarada Maligna
+Las habilidades de daño infligen daño mágico adicional durante 3 seg.
+
+Fuegoscuro
+Por cada campeón enemigo, monstruo grande o épico afectado por tu Llamarada Maligna, obtienes un 4% de Poder de Habilidad.
+
+Se construye con: Capítulo Perdido, Cenizas Predestinadas
+Mejora a: —
+Considerado en fichas de: Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra
+
+------------------------------------------------------------
+Rukerno Kaénico [2504] — 2900 oro | Venta 2030
+Tipo: Completo | Defensa
+400 de Vida
+80 de Resistencia Mágica
+100% de Regen. de Vida Básica
+
+Ruina del Mago
+Si no recibes daño mágico durante 15 seg, obtienes un escudo mágico.
+
+Se construye con: Hábito del Espectro, Capa de Negatrones
+Mejora a: —
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Cenizas Predestinadas [2508] — 900 oro | Venta 630
+Tipo: Componente | AP
+30 de Poder de Habilidad
+
+Enardecer
+Las habilidades de daño infligen 15 de daño mágico adicional a lo largo de 3 seg.
+Inflige 45 de daño mágico adicional a monstruos.
+
+Se construye con: Libro Amplificador
+Mejora a: Antorcha de Fuegoscuro, El Tormento de Liandry
+Considerado en fichas de: Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra, Anivia, Aurelion Sol, Azir, Cassiopeia, Galio, Gragas, Gwen, Karthus, Lillia, Malzahar, Mordekaiser, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Taliyah, Udyr, Diana, Volibear
+
+------------------------------------------------------------
+Ocaso y Alba [2510] — 3100 oro | Venta 2170
+Tipo: Completo | Defensa, AP, Aceleración, Ataques
+300 de Vida
+60 de Poder de Habilidad
+20 de Aceleración de Habilidad
+20% de Velocidad de Ataque
+
+Espada Encantada ([valor dinámico] seg)
+Tras usar una habilidad, tu siguiente ataque inflige [valor dinámico] de daño mágico adicional, te cura un [valor dinámico] al impacto y aplica efectos al impacto una vez más.
+
+Se construye con: Brillo, Varita Explosiva, Gemaluz, Daga
+Mejora a: —
+Considerado en fichas de: Ekko, Diana, Volibear
+
+------------------------------------------------------------
+Proyectiles Cazademonios [2512] — 2650 oro | Venta 1855
+Tipo: Completo | Ataques
+45% de Velocidad de Ataque
+25% de Probabilidad de Golpe Crítico
+4% de Velocidad de Movimiento
+
+Vigilancia Nocturna
+Obtienes 30 de Aceleración de Habilidad para la definitiva.
+
+Ráfaga Inicial
+Tras lanzar la definitiva, tus siguientes 3 ataques básicos obtienen un 50% de Velocidad de Ataque e infligen golpes críticos equivalente a un 80% de tu daño de golpe crítico durante 8 seg. Un ataque que sería un golpe crítico, inflige un 15% de daño verdadero adicional en lugar de un golpe crítico.
+
+Se construye con: Fervor, Honda del Explorador
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Hambre Infinita [2517] — 3100 oro | Venta 2170
+Tipo: Completo | AD
+65 de Daño de Ataque
+5% de Omnivampirismo
+20% de Tenacidad
+
+Sed
+Obtienes aceleración de habilidad según la cantidad de daño de ataque adicional que tengas.
+
+Festín
+Cuando un campeón muere al poco tiempo de haberle infligido daño, obtienes omnivampirismo durante cierto tiempo.
+
+Se construye con: Martillo de Guerra de Caulfield, Picacha, Espada Larga
+Mejora a: —
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Rompebastiones [2520] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Letalidad, Aceleración
+55 de Daño de Ataque
+18 de Letalidad
+15 de Aceleración de Habilidad
+
+Carga Hueca ([valor dinámico] seg)
+Causarle daño de habilidad a un campeón o monstruo épico inflige [valor dinámico] de daño verdadero.
+
+Sabotaje
+Derribar a un campeón en un lapso de 3 seg después de dañarlo te otorga Sabotaje por 25000 seg. Mientras tengas Sabotaje, tu próximo ataque contra un monstruo épico o torreta infligirá [valor dinámico] de daño verdadero adicional durante 3 seg.
+
+Se construye con: El Brutalizador, Puñal Serrado
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Actualizador [2522] — 2800 oro | Venta 1960
+Tipo: Completo | AP, Aceleración
+90 de Poder de Habilidad
+300 de Maná
+10 de Aceleración de Habilidad
+
+Maná de Verdad ([valor dinámico] seg)
+Durante 8 seg, tu maná se potencia. Mientras esté potenciado, tus hechizos cuestan un 100% más de Maná, obtienes un aumento de [valor dinámico] de daño de habilidad, de Escudo y de Curación, y el enfriamiento de tus habilidades básicas se completa un 30% más rápido.
+
+Se construye con: Capítulo Perdido, Varita Explosiva
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Hexóptica C44 [2523] — 2800 oro | Venta 1960
+Tipo: Completo | AD
+55 de Daño de Ataque
+25% de Probabilidad de Golpe Crítico
+
+Magnificación
+Inflige hasta un 10% de daño aumentado con ataques, según cuán lejos esté el enemigo (el máximo de daño se inflige a un alcance de 500).
+
+Precisión Arcana
+Cuando un campeón al que le infligiste daño muere en un lapso de 3 seg, obtienes 100 de alcance de ataque adicional durante 8 seg.
+
+Se construye con: Picacha, Carcaj de Mediodía, Espada Larga
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Flautas de Bandle [2524] — 2300 oro | Venta 1610
+Tipo: Completo | Defensa, Aceleración
+200 de Vida
+15 de Aceleración de Habilidad
+20 de Armadura
+20 de Resistencia Mágica
+
+Fanfarria
+Al ralentizar o inmovilizar a un campeón enemigo, obtienes la mejora Fanfarria durante [valor dinámico] seg. Fanfarria te otorga 20 de Velocidad de Movimiento. Además, mientras esté activa, tanto tú como tus aliados cercanos obtienen [valor dinámico] de Velocidad de Ataque.
+
+Se construye con: Gemaluz, Armadura de Tela, Manto Anulamagia
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Arnés de Protoplasma [2525] — 2600 oro | Venta 1820
+Tipo: Completo | Defensa, Aceleración
+600 de Vida
+20 de Aceleración de Habilidad
+
+Salvavidas ([valor dinámico] seg)
+Al recibir daño que reduciría tu Vida por debajo de un 30%, obtienes [valor dinámico] de Vida Máxima durante 5 seg y te curas [valor dinámico] de Vida a lo largo del efecto. Mientras recuperas vida, aumentas de tamaño en un 15%, y obtienes un 10% de Velocidad de Movimiento y un 25% de Tenacidad.
+
+Se construye con: Gemaluz, Cinturón de Gigante
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Tiara Susurrante [2526] — 2250 oro | Venta 1575
+Tipo: Componente | Defensa
+200 de Vida
+8% de poder de curaciones y escudos
+75% de Regen. de Maná Básica
+300 de Maná
+
+Armonía
+Obtienes un 0% de poder de curaciones y escudos.
+
+Flujo de Maná (8 seg; máx.: 5 cargas)
+Al impactar a un enemigo con una habilidad, obtienes 4 de Maná Máximo (la bonificación se duplica contra campeones).
+Se transforma en Diadema Musical al tener 360 de Maná Máximo.
+
+Se construye con: Ídolo Prohibido, Cristal de Rubí, Lágrima de la Diosa
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Báculo del Arcángel [3003] — 2900 oro | Venta 2030
+Tipo: Completo | AP, Aceleración
+70 de Poder de Habilidad
+600 de Maná
+25 de Aceleración de Habilidad
+
+Asombro.
+Obtienes Poder de Habilidad igual a un 1% del Maná adicional.
+
+Flujo de Maná (8 seg. Hasta 5 cargas)
+Asestar impactos con habilidades otorga 5 de Maná Máximo (se duplica contra campeones).
+Se transforma en Abrazo del Serafín al tener 360 de Maná Máximo.
+
+Se construye con: Lágrima de la Diosa, Capítulo Perdido, Códice Diabólico
+Mejora a: —
+Considerado en fichas de: Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah
+
+------------------------------------------------------------
+Manamune [3004] — 2900 oro | Venta 2030
+Tipo: Completo | AD, Aceleración
+35 de Daño de Ataque
+500 de Maná
+15 de Aceleración de Habilidad
+
+Asombro.
+Obtienes [valor dinámico] de Daño de ataque adicional.
+
+Flujo de Maná (8 seg. Hasta 4 cargas)
+Asestar impactos con habilidades y ataques otorga 3 de Maná Máximo (se duplica contra campeones).
+Se transforma en Muramaná al tener 360 de Maná Máximo.
+
+Se construye con: Lágrima de la Diosa, Martillo de Guerra de Caulfield, Espada Larga
+Mejora a: —
+Considerado en fichas de: Ezreal
+
+------------------------------------------------------------
+Grebas del Berserker [3006] — 1100 oro | Venta 770
+Tipo: Componente | Ataques, Botas
+30% de Velocidad de Ataque
+45 de Velocidad de Movimiento
+
+
+
+Se construye con: Botas, Daga, Daga
+Mejora a: Grebas de Armacero
+Considerado en fichas de: Maestro Yi, Viego, Jax
+
+------------------------------------------------------------
+Grebas Glotonas [3008] — 1100 oro | Venta 770
+Tipo: Componente | Botas
+45 de Velocidad de Movimiento
+4% de Omnivampirismo
+
+Exterminar
+Al derribar campeones, obtienes un 0.6% de Omnivampirismo. El efecto se acumula hasta 10 veces.
+
+Se construye con: Botas
+Mejora a: Camino Inmortal
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Botas de Rapidez [3009] — 1000 oro | Venta 700
+Tipo: Componente | Botas
+55 de Velocidad de Movimiento
+
+Pies ligeros
+Reduce la eficacia de los efectos de ralentización en un 25%.
+
+Se construye con: Botas
+Mejora a: Botas de Marcha Rápida
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Botas del Hechicero [3020] — 1100 oro | Venta 770
+Tipo: Componente | Botas
+12 de Penetración de Magia
+45 de Velocidad de Movimiento
+
+
+
+Se construye con: Botas
+Mejora a: Zapatos de Lanzahechizos
+Considerado en fichas de: Diana, Evelynn, Volibear, Ekko
+
+------------------------------------------------------------
+Escudo Glacial [3024] — 900 oro | Venta 630
+Tipo: Componente | Defensa, Aceleración
+25 de Armadura
+300 de Maná
+10 de Aceleración de Habilidad
+
+
+
+Se construye con: Armadura de Tela, Cristal de Zafiro, Mena Brillante
+Mejora a: Corazón de Hielo
+Considerado en fichas de: Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Ángel Guardián [3026] — 3200 oro | Venta 1280
+Tipo: Completo | AD, Defensa
+55 de Daño de Ataque
+45 de Armadura
+
+Renacimiento
+Tras recibir daño letal, restaura un 50% de Vida básica y un 100% del Maná Máximo luego de 4 seg de Estasis.
+
+Se construye con: Sello de Acero, Espadón
+Mejora a: —
+Considerado en fichas de: Aatrox, Akshan, Ambessa, Aphelios, Ashe, Bel'Veth, Briar, Caitlyn, Camille, Corki, Darius, Draven, Ezreal, Fiora, Gangplank, Garen, Gnar, Graves, Hecarim, Illaoi, Irelia, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Kayn, Kha'Zix, Kindred, Kled, Kog'Maw, Lee Sin, Lucian, Maestro Yi, Miss Fortune, Wukong, Naafiri, Nasus, Nilah, Nocturne, Olaf, Pantheon, Pyke, Qiyana, Quinn, Rek'Sai, Renekton, Rengar, Riven, Samira, Senna, Sett, Shaco, Sivir, Smolder, Talon, Tristana, Trundle, Tryndamere, Twitch, Urgot, Varus, Vayne, Vi, Viego, Warwick, Xayah, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Zaahen, Zed, Zeri
+
+------------------------------------------------------------
+Filo del Infinito [3031] — 3500 oro | Venta 2450
+Tipo: Completo | AD
+75 de Daño de Ataque
+25% de Probabilidad de Golpe Crítico
+30% de Daño de Golpe Crítico
+
+
+
+Se construye con: Espadón, Picacha, Capa de Agilidad
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Flechas Salvajes de Yun Tal [3032] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Ataques
+50 de Daño de Ataque
+45% de Velocidad de Ataque
+0% de Probabilidad de Golpe Crítico
+
+A Más Práctica, Más Letalidad
+Al atacar, obtienes probabilidad de golpe crítico de forma permanente, hasta un máximo de un 25%.
+
+Ráfaga
+Al atacar un campeón enemigo, obtienes un 30% de Velocidad de Ataque durante 6 seg (30 seg de enfriamiento). 
+Los ataques reducen este enfriamiento en 1 seg, que aumenta a 2 seg si asestas un golpe crítico.
+
+Se construye con: Espadón, Honda del Explorador, Espada Larga
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Graves, Jayce, Jinx, Lucian, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Xayah, Yunara, Zeri
+
+------------------------------------------------------------
+Recordatorio Mortal [3033] — 3000 oro | Venta 2100
+Tipo: Completo | AD
+35 de Daño de Ataque
+30% de Penetración de Armadura
+25% de Probabilidad de Golpe Crítico
+
+Heridas Graves
+Infligir daño físico aplica un 40% de Heridas a los campeones enemigos durante 3 seg.
+
+Se construye con: El Llamado del Verdugo, Último Suspiro, Capa de Agilidad
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Último Suspiro [3035] — 1450 oro | Venta 1015
+Tipo: Componente | AD
+20 de Daño de Ataque
+18% de Penetración de Armadura
+
+
+
+Se construye con: Espada Larga, Espada Larga
+Mejora a: Recordatorio Mortal, Recuerdos de Lord Dominik, Rencor de Serylda
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri, Ezreal, Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Nocturne
+
+------------------------------------------------------------
+Recuerdos de Lord Dominik [3036] — 3300 oro | Venta 2310
+Tipo: Completo | AD
+35 de Daño de Ataque
+35% de Penetración de Armadura
+25% de Probabilidad de Golpe Crítico
+
+Verdugo de Gigantes
+Infliges hasta un 15% de daño adicional contra campeones según su vida adicional. Infliges el máximo de daño adicional cuando el enemigo tiene 1500 de Vida adicional.
+
+Se construye con: Último Suspiro, Carcaj de Mediodía
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Robaalmas de Mejai [3041] — 1500 oro | Venta 1050
+Tipo: Completo | AP, Defensa
+20 de Poder de Habilidad
+100 de Vida
+
+Gloria
+Los derribos otorgan Gloria (hasta 25). Pierdes 10 de Gloria al morir.
+Obtienes 5 de Poder de Habilidad por cada acumulación de Gloria y un 10% de Velocidad de Movimiento al tener 10 o más acumulaciones de Gloria.
+
+Se construye con: El Sello de la Oscuridad
+Mejora a: —
+Considerado en fichas de: Diana, Evelynn, Volibear, Ekko
+
+------------------------------------------------------------
+Bacteriófago [3044] — 1100 oro | Venta 770
+Tipo: Componente | AD, Defensa
+15 de Daño de Ataque
+200 de Vida
+
+Rabia
+Los ataques te otorgan velocidad de movimiento durante 2 seg.
+
+Se construye con: Cristal de Rubí, Espada Larga
+Mejora a: Cuchilla Oscura, Fuerza de la Trinidad, Placa Hexperimental, Rompeavances
+Considerado en fichas de: Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Jarvan IV, Kayn, Kled, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Senna, Sett, Trundle, Urgot, Vi, Xin Zhao, Yorick, Zaahen, Ezreal, Gangplank, Jax
+
+------------------------------------------------------------
+Bailarín Espectral [3046] — 2650 oro | Venta 1855
+Tipo: Completo | Ataques
+65% de Velocidad de Ataque
+25% de Probabilidad de Golpe Crítico
+10% de Velocidad de Movimiento
+
+Vals Espectral
+Te vuelves Fantasma.
+
+Se construye con: Daga, Fervor, Daga
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Punteras de Acero Revestidas [3047] — 1200 oro | Venta 840
+Tipo: Componente | Defensa, Botas
+25 de Armadura
+45 de Velocidad de Movimiento
+
+Revestimiento
+Reduce el daño recibido de los ataques en un 10%.
+
+Se construye con: Botas, Armadura de Tela
+Mejora a: Blindadas de Avance 
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Convergencia de Zeke [3050] — 2200 oro | Venta 1540
+Tipo: Completo | Defensa, Aceleración
+300 de Vida
+25 de Armadura
+25 de Resistencia Mágica
+10 de Aceleración de Habilidad
+
+Tempestad de Fuego Escarchado
+Al lanzar tu definitiva, invocas una tormenta a tu alrededor durante 5 seg. La tormenta inflige 30 de daño mágico por seg a los campeones enemigos y los ralentiza en un 30%.
+
+Se construye con: Gemaluz, Armadura de Tela, Manto Anulamagia
+Mejora a: —
+Considerado en fichas de: Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh
+
+------------------------------------------------------------
+Hacha Hogareña [3051] — 1200 oro | Venta 840
+Tipo: Componente | AD, Ataques
+20 de Daño de Ataque
+20% de Velocidad de Ataque
+
+
+
+Se construye con: Espada Larga, Daga, Espada Larga
+Mejora a: Fuerza de la Trinidad, Terminus, Matakrakens
+Considerado en fichas de: Briar, Camille, Ezreal, Fiora, Gangplank, Gnar, Jax, Kled, Wukong, Nasus, Olaf, Pantheon, Trundle, Zaahen, Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Viego, Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Graves, Jayce, Jinx, Lucian, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Xayah, Yunara, Zeri
+
+------------------------------------------------------------
+Guantelete de Sterak [3053] — 3200 oro | Venta 2240
+Tipo: Completo | Defensa
+400 de Vida
+20% de Tenacidad
+
+Garras que Atrapan
+Obtienes daño de ataque adicional.
+
+Salvavidas
+Al recibir daño que reduciría tu Vida por debajo de un 30%, obtienes un escudo que decae durante 4.5 seg.
+
+Se construye con: Picacha, Excavador de Túneles, Cristal de Rubí
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Jarvan IV, Jax, Kayn, Kled, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Vi, Viego, Warwick, Xin Zhao, Yorick, Zaahen
+
+------------------------------------------------------------
+Brillo [3057] — 900 oro | Venta 630
+Tipo: Componente | Aceleración
+10 de Aceleración de Habilidad
+
+Espada Encantada
+Después de usar una habilidad, tu siguiente ataque inflige daño físico adicional al impacto.
+
+Se construye con: Mena Brillante
+Mejora a: Fuerza de la Trinidad, Maldición del Liche, Ocaso y Alba, Saqueador de Esencias, Guantelete del Hijo del Hielo
+Considerado en fichas de: Ekko, Diana, Volibear, Briar, Camille, Ezreal, Fiora, Gangplank, Gnar, Jax, Kled, Wukong, Nasus, Olaf, Pantheon, Trundle, Zaahen, Ahri, Akali, Aurora, Elise, Evelynn, Fizz, Kassadin, Katarina, LeBlanc, Locke, Nidalee
+
+------------------------------------------------------------
+Apariencia Espiritual [3065] — 2700 oro | Venta 1890
+Tipo: Completo | Defensa, Aceleración
+400 de Vida
+50 de Resistencia Mágica
+10 de Aceleración de Habilidad
+100% de Regen. de Vida Básica
+
+Vitalidad Ilimitada
+Las curaciones y los escudos que tengas aumentarán en un 25%.
+
+Se construye con: Hábito del Espectro, Gemaluz
+Mejora a: —
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, Galio, Gragas, Gwen, Kayn, K'Sante, Lillia, Malphite, Maokai, Mordekaiser, Nunu y Willump, Ornn, Poppy, Rammus, Rumble, Sejuani, Shen, Shyvana, Singed, Sion, Skarner, Swain, Sylas, Tahm Kench, Udyr, Volibear, Warwick, Xin Zhao, Zac
+
+------------------------------------------------------------
+Placa Lunar Alada [3066] — 800 oro | Venta 560
+Tipo: Componente | Defensa
+200 de Vida
+4% de Velocidad de Movimiento
+
+
+
+Se construye con: Cristal de Rubí
+Mejora a: Placa del Hombre Muerto, Rompecascos, Fuerza de la Naturaleza
+Considerado en fichas de: Jax, Volibear, Xin Zhao, Nocturne, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Alistar, Amumu, Blitzcrank, Braum, Cho'Gath, Dr. Mundo, K'Sante, Leona, Malphite, Maokai, Nautilus, Nunu y Willump, Ornn, Poppy, Rakan, Rammus, Rell, Sejuani, Shen, Sion, Skarner, Tahm Kench, Taric, Thresh, Zac
+
+------------------------------------------------------------
+Gemaluz [3067] — 800 oro | Venta 560
+Tipo: Componente | Defensa, Aceleración
+200 de Vida
+10 de Aceleración de Habilidad
+
+
+
+Se construye con: Cristal de Rubí, Mena Brillante
+Mejora a: Cuchilla Oscura, Máscara Abisal, Morellonomicón, Ecos de Helia, Convergencia de Zeke, Promesa del Caballero, Desesperación Eterna, Ocaso y Alba, Flautas de Bandle, Arnés de Protoplasma, Renovador de Piedra Lunar, Apariencia Espiritual, Cinturón Cohete Hextech, Umbral del Invierno, Relicario de los Solari de Hierro, Bendición de Mikael, Impulso Cósmico
+Considerado en fichas de: Volibear, Warwick, Jarvan IV, Ekko, Diana, Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Amumu, Cho'Gath, Dr. Mundo, Galio, Gragas, Gwen, Kayn, K'Sante, Lillia, Malphite, Maokai, Mordekaiser, Nunu y Willump, Ornn, Poppy, Rammus, Rumble, Sejuani, Shen, Shyvana, Singed, Sion, Skarner, Swain, Sylas, Tahm Kench, Udyr, Xin Zhao, Zac, Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Kled, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Senna, Sett, Trundle, Urgot, Vi, Yorick, Zaahen, Ahri, Akali, Aurora, Elise, Evelynn, Fizz, Kassadin, Katarina, Kennen, LeBlanc, Locke, Nidalee, Vladimir, Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Égida de Fuego Solar [3068] — 2800 oro | Venta 1960
+Tipo: Completo | Defensa, Aceleración
+350 de Vida
+50 de Armadura
+10 de Aceleración de Habilidad
+
+Inmolar
+Tras recibir o infligir daño, inflige daño mágico por seg a los enemigos cercanos durante 3 seg.
+
+Se construye con: Ceniza de Bami, Cota de Malla, Cristal de Rubí
+Mejora a: —
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac
+
+------------------------------------------------------------
+Lágrima de la Diosa [3070] — 400 oro | Venta 280
+Tipo: Básico | 
+240 de Maná
+
+Flujo de Maná (8 seg. Hasta 4 cargas)
+Asestar impactos con habilidades otorga 3 de Maná Máximo (se duplica contra campeones), hasta un 360.
+
+Una Ayudita
+Los ataques infligen 5 de Daño físico adicional a los súbditos.
+
+Se construye con: —
+Mejora a: Báculo del Arcángel, Manamune, Tiara Susurrante, Umbral del Invierno
+Considerado en fichas de: Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah, Ezreal
+
+------------------------------------------------------------
+Cuchilla Oscura [3071] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Defensa, Aceleración
+45 de Daño de Ataque
+400 de Vida
+20 de Aceleración de Habilidad
+
+Cortar
+Al infligir daño físico a campeones, reduces la Armadura del objetivo en un 6% durante 6 seg. El efecto puede acumularse hasta 5 veces.
+
+Fervor
+Al infligir daño físico, obtienes [valor dinámico] de Velocidad de Movimiento durante 2 seg.
+
+Se construye con: Bacteriófago, Gemaluz, Picacha
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Jarvan IV, Kayn, Kled, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Senna, Sett, Trundle, Urgot, Vi, Xin Zhao, Yorick, Zaahen
+
+------------------------------------------------------------
+La Sanguinaria [3072] — 3400 oro | Venta 2380
+Tipo: Completo | AD
+80 de Daño de Ataque
+15% de Robo de Vida
+
+Escudo de Icor
+Convierte el exceso de curación recibida del robo de vida en un escudo.
+
+Se construye con: Espadón, Picacha, Cetro Vampírico
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Ezreal, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Placa Hexperimental [3073] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Ataques, Defensa
+40 de Daño de Ataque
+20% de Velocidad de Ataque
+450 de Vida
+
+Carga Hex
+Obtienes 30 de Aceleración de Habilidad para la definitiva.
+
+Sobremarcha
+Tras lanzar tu definitiva, obtienes un 0% de Velocidad de Ataque y un 0% de Velocidad de Movimiento durante 8 seg.
+
+Se construye con: Excavador de Túneles, Daga, Bacteriófago
+Mejora a: —
+Considerado en fichas de: Nocturne
+
+------------------------------------------------------------
+Hidra Voraz [3074] — 3300 oro | Venta 2310
+Tipo: Completo | AD, Aceleración
+65 de Daño de Ataque
+15 de Aceleración de Habilidad
+12% de Robo de Vida
+
+Hender
+Los ataques infligen daño físico a los enemigos cercanos.Creciente Voraz
+Inflige daño físico a los enemigos a tu alrededor. 
+Tu robo de vida se aplica a este daño.
+
+Se construye con: Tiamat, Cetro Vampírico, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Jax, Warwick, Wukong
+
+------------------------------------------------------------
+Cota de Espinas [3075] — 2450 oro | Venta 1715
+Tipo: Completo | Defensa
+150 de Vida
+75 de Armadura
+
+Espinas
+Al recibir un ataque, inflige daño mágico al atacante. Si el atacante es un campeón, le aplica un 40% de Heridas durante 3 seg.
+
+Se construye con: Vesta Espinosa, Cota de Malla, Cristal de Rubí
+Mejora a: —
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Vesta Espinosa [3076] — 800 oro | Venta 560
+Tipo: Componente | Defensa
+30 de Armadura
+
+Espinas
+Al recibir un ataque, inflige [valor dinámico] de daño mágico al atacante y, si es un campeón, le aplica un 40% de Heridas Graves durante 3 seg.
+
+Se construye con: Armadura de Tela, Armadura de Tela
+Mejora a: Cota de Espinas
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Tiamat [3077] — 1200 oro | Venta 840
+Tipo: Componente | AD
+25 de Daño de Ataque
+
+Hender
+Los ataques infligen daño físico a los enemigos cercanos.
+Creciente
+Inflige daño físico a los enemigos a tu alrededor.
+
+Se construye con: Espada Larga, Espada Larga
+Mejora a: Hidra Voraz, Hidra Titánica, Hidra Profana, Rompeavances
+Considerado en fichas de: Jax, Warwick, Wukong, Darius, Garen, Illaoi, Sett, Urgot, Xin Zhao, Yorick, Nocturne, Kayn, Kha'Zix, Naafiri, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Fuerza de la Trinidad [3078] — 3333 oro | Venta 2333
+Tipo: Completo | AD, Ataques, Defensa, Aceleración
+36 de Daño de Ataque
+30% de Velocidad de Ataque
+333 de Vida
+15 de Aceleración de Habilidad
+
+Espada Encantada
+Después de usar una habilidad, tu siguiente ataque inflige daño físico adicional al impacto.
+ 
+Apresurar
+Atacar te otorga 20 de Velocidad de Movimiento durante 2 seg.
+
+Se construye con: Brillo, Bacteriófago, Hacha Hogareña
+Mejora a: —
+Considerado en fichas de: Briar, Camille, Ezreal, Fiora, Gangplank, Gnar, Jax, Kled, Wukong, Nasus, Olaf, Pantheon, Trundle, Zaahen
+
+------------------------------------------------------------
+Cota del Guardabosques [3082] — 1000 oro | Venta 700
+Tipo: Componente | Defensa
+40 de Armadura
+
+Duro como piedra
+Reduce el daño proveniente de ataques.
+
+Se construye con: Armadura de Tela, Armadura de Tela
+Mejora a: Corazón de Hielo, Presagio de Randuin
+Considerado en fichas de: Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac
+
+------------------------------------------------------------
+Armadura de Warmog [3083] — 3100 oro | Venta 2170
+Tipo: Completo | Defensa
+1000 de Vida
+100% de Regen. de Vida Básica
+
+Corazón de Warmog 
+Si tienes 2000 de Vida adicional y no has recibido daño en un lapso de 8 seg, restaura [valor dinámico] de Vida por seg.
+
+Vitalidad de Warmog
+Obtienes Vida adicional equivalente a un 12% de la Vida que te otorgan tus objetos ([valor dinámico]).
+
+Se construye con: Cinturón de Gigante, Cinturón de Gigante, Brazal Cristalino
+Mejora a: —
+Considerado en fichas de: Volibear, Warwick, Jarvan IV
+
+------------------------------------------------------------
+Corazón de Acero [3084] — 3000 oro | Venta 2100
+Tipo: Completo | Defensa
+900 de Vida
+100% de Regen. de Vida Básica
+
+Consumo Colosal ([valor dinámico] seg) por objetivo
+Si un campeón enemigo está cerca de ti durante unos seg, tu siguiente ataque contra él le inflige 70 más un 6% de tu Vida Máxima como daño físico adicional y te otorga un 10% del daño como Vida Máxima.
+
+Goliat
+Por cada 1000 de Vida Máxima, obtienes un 3% de tamaño adicional, hasta un máximo de un 30%.
+
+Se construye con: Cinturón de Gigante, Brazal Cristalino, Cinturón de Gigante
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Huracán de Runaan [3085] — 2650 oro | Venta 1855
+Tipo: Completo | Ataques
+40% de Velocidad de Ataque
+25% de Probabilidad de Golpe Crítico
+5% de Velocidad de Movimiento
+
+Furia del Viento
+Los ataques disparan proyectiles a 2 enemigos adicionales cerca del objetivo.
+Cada proyectil inflige daño físico y aplica efectos al impacto.
+
+Se construye con: Fervor, Honda del Explorador
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Fervor [3086] — 1200 oro | Venta 840
+Tipo: Componente | Ataques
+15% de Velocidad de Ataque
+15% de Probabilidad de Golpe Crítico
+4% de Velocidad de Movimiento
+
+
+
+Se construye con: Capa de Agilidad, Daga
+Mejora a: Proyectiles Cazademonios, Cañón de Fuego Rápido, Bailarín Espectral, Huracán de Runaan, Cuchilla Rauda de Navori
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri, Jhin, Senna
+
+------------------------------------------------------------
+Navaja de Statikk [3087] — 3000 oro | Venta 2100
+Tipo: Completo | AD, AP, Ataques
+45 de Daño de Ataque
+45 de Poder de Habilidad
+30% de Velocidad de Ataque
+4% de Velocidad de Movimiento
+
+Electrochispa
+Tus ataques energizados lanzan una cadena de rayos que aplica efectos al impacto () e inflige daño mágico a los objetivos cercanos.
+
+Electrochoque 
+Los ataques básicos otorgan acumulaciones de Energizado adicionales.
+
+Se construye con: Honda del Explorador, Brisa de Éter, Picacha
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Sombrero Mortífero de Rabadon [3089] — 3500 oro | Venta 2450
+Tipo: Completo | AP
+130 de Poder de Habilidad
+
+Obra Mágica
+Aumenta tu Poder de Habilidad total en un 30%.
+
+Se construye con: Vara Innecesariamente Grande, Vara Innecesariamente Grande
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lissandra, Locke, Lux, Malzahar, Mel, Morgana, Neeko, Nidalee, Orianna, Ryze, Syndra, Taliyah, Teemo, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra, Volibear
+
+------------------------------------------------------------
+Al Filo de la Cordura [3091] — 2800 oro | Venta 1960
+Tipo: Completo | Ataques, Defensa
+50% de Velocidad de Ataque
+45 de Resistencia Mágica
+20% de Tenacidad
+
+Fragor
+Los ataques infligen daño mágico adicional al impacto.
+
+Se construye con: Arco Recurvado, Capa de Negatrones, Arco Recurvado
+Mejora a: —
+Considerado en fichas de: Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Viego, Jax
+
+------------------------------------------------------------
+Cañón de Fuego Rápido [3094] — 2650 oro | Venta 1855
+Tipo: Completo | Ataques
+35% de Velocidad de Ataque
+25% de Probabilidad de Golpe Crítico
+4% de Velocidad de Movimiento
+
+Francotirador
+Tu ataque energizado inflige 40 daño mágico adicional y obtiene un 35% de alcance de Ataque adicional.
+
+Se construye con: Fervor, Honda del Explorador
+Mejora a: —
+Considerado en fichas de: Jhin, Senna
+
+------------------------------------------------------------
+Filo de la Tormenta [3095] — 3200 oro | Venta 2240
+Tipo: Completo | AD, Ataques
+50 de Daño de Ataque
+25% de Velocidad de Ataque
+25% de Probabilidad de Golpe Crítico
+
+Energizado
+Moverse y atacar generará un ataque energizado.
+
+Proyectil
+Tus ataques energizados infligen [valor dinámico] de daño mágico adicional y otorgan un 45% de Velocidad de Movimiento durante 1.5 seg.
+
+Se construye con: Espadón, Capa de Agilidad, Honda del Explorador
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Maldición del Liche [3100] — 2900 oro | Venta 2030
+Tipo: Completo | AP, Aceleración
+100 de Poder de Habilidad
+6% de Velocidad de Movimiento
+10 de Aceleración de Habilidad
+
+Espada Encantada
+Después de usar una habilidad, tu próximo ataque inflige daño mágico adicional al impacto.
+
+Se construye con: Brillo, Brisa de Éter, Varita Explosiva
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Aurora, Ekko, Elise, Evelynn, Fizz, Kassadin, Katarina, LeBlanc, Locke, Nidalee
+
+------------------------------------------------------------
+Velo de la Banshee [3102] — 3000 oro | Venta 2100
+Tipo: Completo | AP, Defensa
+105 de Poder de Habilidad
+40 de Resistencia Mágica
+
+Anulación
+Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.
+
+Se construye con: Vara Innecesariamente Grande, Barrera Esmeralda
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lillia, Lissandra, Locke, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Nidalee, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Teemo, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zilean, Zoe, Zyra, Volibear
+
+------------------------------------------------------------
+Redención [3107] — 2300 oro | Venta 1610
+Tipo: Completo | AP, Aceleración
+30 de Poder de Habilidad
+15 de Aceleración de Habilidad
+100% de Regen. de Maná Básica
+10% de poder de curaciones y escudos
+
+Intervención
+Restaura de 150 a 350 de Vida a unidades aliadas e inflige un 10% de la Vida Máxima como daño verdadero a campeones enemigos tras 2.5 seg.
+
+Se construye con: Códice Diabólico, Ídolo Prohibido
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Códice Diabólico [3108] — 850 oro | Venta 595
+Tipo: Componente | AP, Aceleración
+25 de Poder de Habilidad
+10 de Aceleración de Habilidad
+
+
+
+Se construye con: Libro Amplificador, Mena Brillante
+Mejora a: Diente de Nashor, Báculo del Arcángel, Redención, Criptorretoño, Maldición de la Vampiresa, Báculo de Agua Fluyente, Enfoque al Horizonte, Impulso Cósmico, Agrietador
+Considerado en fichas de: Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah, Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean, Azir, Diana, Ekko, Kayle, Teemo, Volibear, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Sylas, Udyr
+
+------------------------------------------------------------
+Promesa del Caballero [3109] — 2300 oro | Venta 1610
+Tipo: Completo | Defensa, Aceleración
+200 de Vida
+40 de Armadura
+10 de Aceleración de Habilidad
+100% de Regen. de Vida Básica
+
+Sacrificio
+Al estar cerca de tu aliado digno, recibes un 14% del daño que reciba y te curas un 12% del daño que inflija a los campeones.Juramento ([valor dinámico] seg)
+Designa a un aliado como digno.
+
+Se construye con: Gemaluz, Cota de Malla, Perla de Rejuvenecimiento
+Mejora a: —
+Considerado en fichas de: Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh
+
+------------------------------------------------------------
+Corazón de Hielo [3110] — 2500 oro | Venta 1750
+Tipo: Completo | Defensa, Aceleración
+75 de Armadura
+400 de Maná
+20 de Aceleración de Habilidad
+
+Caricia Invernal
+Reduce la Velocidad de Ataque de los campeones cercanos en un 20%.
+
+Se construye con: Cota del Guardabosques, Escudo Glacial
+Mejora a: —
+Considerado en fichas de: Alistar, Blitzcrank, Braum, Leona, Nautilus, Rakan, Rell, Taric, Thresh, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Botas de Mercurio [3111] — 1250 oro | Venta 875
+Tipo: Componente | Defensa, Botas
+20 de Resistencia Mágica
+45 de Velocidad de Movimiento
+30% de Tenacidad
+
+
+
+Se construye con: Botas, Manto Anulamagia
+Mejora a: Trituradoras Aceradas
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Orbe del Guardián [3112] — 950 oro | Venta 665
+Tipo: Completo | AP, Defensa
+50 de Poder de Habilidad
+150 de Vida
+
+Restauración: Restaura 10 de Maná cada 5 seg. Si no puedes obtener maná, restaura 15 de Vida.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Brisa de Éter [3113] — 900 oro | Venta 630
+Tipo: Componente | AP
+30 de Poder de Habilidad
+4% de Velocidad de Movimiento
+
+
+
+Se construye con: Libro Amplificador
+Mejora a: Maldición del Liche, Canto de Guerra de Shurelya, Navaja de Statikk, Pebetero Ardiente, Impulso Cósmico, Descarga Tormentosa
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean, Ahri, Akali, Aurora, Ekko, Elise, Evelynn, Fizz, Kassadin, Katarina, LeBlanc, Locke, Nidalee, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr, Diana, Volibear, Kennen, Vladimir
+
+------------------------------------------------------------
+Ídolo Prohibido [3114] — 600 oro | Venta 420
+Tipo: Componente | 
+50% de Regen. de Maná Básica
+8% de poder de curaciones y escudos
+
+
+
+Se construye con: Amuleto de las Hadas
+Mejora a: Tiara Susurrante, Redención, Bendición de Mikael, Pebetero Ardiente, Báculo de Agua Fluyente, Esfera del Amanecer
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Diente de Nashor [3115] — 2900 oro | Venta 2030
+Tipo: Completo | AP, Ataques, Aceleración
+80 de Poder de Habilidad
+50% de Velocidad de Ataque
+15 de Aceleración de Habilidad
+
+Mordida de Icathia
+Los ataques infligen daño mágico adicional al impacto.
+
+Se construye con: Arco Recurvado, Varita Explosiva, Códice Diabólico
+Mejora a: —
+Considerado en fichas de: Azir, Diana, Ekko, Kayle, Teemo, Volibear
+
+------------------------------------------------------------
+Cetro de Cristal de Rylai [3116] — 2600 oro | Venta 1820
+Tipo: Completo | AP, Defensa
+65 de Poder de Habilidad
+400 de Vida
+
+Hielo Escarchado
+Las habilidades de daño ralentizan a los enemigos un 30% durante 1 seg.
+
+Se construye con: Varita Explosiva, Cinturón de Gigante, Libro Amplificador
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Maldad [3118] — 2700 oro | Venta 1890
+Tipo: Completo | AP, Aceleración
+90 de Poder de Habilidad
+600 de Maná
+15 de Aceleración de Habilidad
+
+Desdén
+Obtienes 20 de Aceleración de Habilidad de la definitiva.
+
+Campo Tóxico
+Infligir daño a un campeón con tu definitiva quema el suelo donde esté parado durante 3 seg, lo que le inflige daño mágico por seg y reduce su resistencia mágica.
+
+Se construye con: Capítulo Perdido, Varita Explosiva
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Umbral del Invierno [3119] — 2400 oro | Venta 1680
+Tipo: Completo | Defensa, Aceleración
+550 de Vida
+500 de Maná
+15 de Aceleración de Habilidad
+
+Asombro
+Otorga [valor dinámico] de Vida.
+
+Flujo de Maná (8 seg. Hasta 4 cargas)
+Asestar ataques y habilidades otorga 3 de Maná Máximo (se duplica contra campeones).
+Se transforma en Invierno Nórdico al tener 360 de Maná Máximo.
+
+Se construye con: Lágrima de la Diosa, Cinturón de Gigante, Gemaluz
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+El Llamado del Verdugo [3123] — 800 oro | Venta 560
+Tipo: Componente | AD
+15 de Daño de Ataque
+
+Heridas Graves
+Infligir daño físico a campeones les aplica un 40% de Heridas Graves durante 3 seg.
+
+Se construye con: Espada Larga
+Mejora a: Recordatorio Mortal, Sierraespada Quimpunk
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Espadafuria de Guinsoo [3124] — 3000 oro | Venta 2100
+Tipo: Completo | AD, AP, Ataques
+30 de Daño de Ataque
+30 de Poder de Habilidad
+25% de Velocidad de Ataque
+
+Ira
+Los ataques infligen 30 de daño mágico adicional al impacto.
+
+Ataque Furioso
+Los ataques otorgan un 8% de Velocidad de Ataque durante 4 seg. (Se acumula 4 veces). 
+Al tener el máximo de acumulaciones, cada tercer ataque aplica efectos al impacto dos veces.
+
+Se construye con: Libro Amplificador, Arco Recurvado, Picacha
+Mejora a: —
+Considerado en fichas de: Bel'Veth, Irelia, Kai'Sa, Kalista, Kayle, Kindred, Kog'Maw, Maestro Yi, Teemo, Varus, Vayne, Viego, Jax
+
+------------------------------------------------------------
+Martillo de Guerra de Caulfield [3133] — 1050 oro | Venta 735
+Tipo: Componente | AD, Aceleración
+20 de Daño de Ataque
+10 de Aceleración de Habilidad
+
+
+
+Se construye con: Espada Larga, Mena Brillante, Espada Larga
+Mejora a: Danza de la Muerte, Arrogancia, Fauces de Malmortius, Hambre Infinita, Manamune, Saqueador de Esencias, Hidra Voraz, Espada de la Penumbra, Sierraespada Quimpunk, Cielo Desgarrado, Eclipse, Rencor de Serylda, Arco Axiomático
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Ezreal, Aatrox, Ambessa, Bel'Veth, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Irelia, Kai'Sa, Kalista, Kindred, Kled, Kog'Maw, Lee Sin, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Varus, Vayne, Yorick, Zaahen, Pyke, Senna, Kha'Zix, Maestro Yi, Naafiri, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Puñal Serrado [3134] — 1000 oro | Venta 700
+Tipo: Componente | AD, Letalidad
+20 de Daño de Ataque
+10 de Letalidad
+
+
+
+Se construye con: Espada Larga, Espada Larga
+Mejora a: Espada Fantasma de Youmuu, Arrogancia, Rompebastiones, Colmillo de Serpiente, Filo de la Noche, Espada de la Penumbra, El Coleccionista
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Senna, Nocturne, Jhin
+
+------------------------------------------------------------
+Báculo del Vacío [3135] — 3000 oro | Venta 2100
+Tipo: Completo | AP
+95 de Poder de Habilidad
+40% Penetración de Magia
+
+
+
+Se construye con: Joya Maldita, Varita Explosiva
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lillia, Lissandra, Locke, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Nidalee, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Teemo, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra, Volibear
+
+------------------------------------------------------------
+Criptorretoño [3137] — 3000 oro | Venta 2100
+Tipo: Completo | AP, Aceleración
+75 de Poder de Habilidad
+30% Penetración de Magia
+20 de Aceleración de Habilidad
+
+Vida en la Muerte
+Cuando un campeón muere en un lapso de 3 seg tras haberle infligido daño, una nova que cura se expande desde su cuerpo.
+
+Se construye con: Joya Maldita, Códice Diabólico, Códice Diabólico
+Mejora a: —
+Considerado en fichas de: Zilean
+
+------------------------------------------------------------
+Cimitarra Mercurial [3139] — 3200 oro | Venta 2240
+Tipo: Completo | AD, Defensa
+50 de Daño de Ataque
+35 de Resistencia Mágica
+10% de Robo de Vida
+
+ACTIVA
+Capa Mercurial
+Elimina todas las debilitaciones de control de masas (excluyendo levantamientos por el aire) y otorga velocidad de movimiento.
+
+Se construye con: Fajín de Mercurio, Picacha, Cetro Vampírico
+Mejora a: —
+Considerado en fichas de: Kha'Zix, Kayn, Nocturne
+
+------------------------------------------------------------
+Fajín de Mercurio [3140] — 1300 oro | Venta 910
+Tipo: Componente | Defensa
+30 de Resistencia Mágica
+
+Capa Mercurial
+Elimina todas las debilitaciones de control de masas (excepto lanzamientos por el aire).
+
+Se construye con: Manto Anulamagia
+Mejora a: Cimitarra Mercurial
+Considerado en fichas de: Kha'Zix, Kayn, Nocturne
+
+------------------------------------------------------------
+Espada Fantasma de Youmuu [3142] — 2800 oro | Venta 1960
+Tipo: Completo | AD, Letalidad
+55 de Daño de Ataque
+18 de Letalidad
+4% de Velocidad de Movimiento
+
+Persecución 
+Obtienes [valor dinámico] de Velocidad de Movimiento al estar fuera de combate.
+
+Paso Espectral
+Obtienes velocidad de movimiento y te vuelves Fantasma durante [valor dinámico] seg.
+
+Se construye con: Puñal Serrado, Rectriz, Espada Larga
+Mejora a: —
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Presagio de Randuin [3143] — 2700 oro | Venta 1890
+Tipo: Completo | Defensa
+350 de Vida
+75 de Armadura
+
+Resiliencia
+Recibes un 30% menos de daño de los golpes críticos.
+Humildad
+Ralentiza a los enemigos cercanos en un 70% durante 2 seg.
+
+Se construye con: Cota del Guardabosques, Cinturón de Gigante
+Mejora a: —
+Considerado en fichas de: Alistar, Amumu, Blitzcrank, Braum, Cho'Gath, Dr. Mundo, Jarvan IV, Jax, K'Sante, Leona, Malphite, Maokai, Nautilus, Nunu y Willump, Ornn, Poppy, Rakan, Rammus, Rell, Sejuani, Shen, Sion, Skarner, Tahm Kench, Taric, Thresh, Vi, Volibear, Warwick, Zac, Xin Zhao, Nocturne, Wukong, Kayn, Viego
+
+------------------------------------------------------------
+Honda del Explorador [3144] — 600 oro | Venta 420
+Tipo: Componente | Ataques
+20% de Velocidad de Ataque
+
+Tiro Certero
+Infligir daño a un campeón le inflige daño mágico adicional. 
+Los ataques reducen este enfriamiento en 1 seg.
+
+Se construye con: Daga, Daga
+Mejora a: Proyectiles Cazademonios, Cañón de Fuego Rápido, Navaja de Statikk, Flechas Salvajes de Yun Tal, Huracán de Runaan, Filo de la Tormenta
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Graves, Jayce, Jinx, Lucian, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Xayah, Yunara, Zeri, Gangplank, Nilah, Tryndamere, Yasuo, Yone, Jhin, Senna
+
+------------------------------------------------------------
+Alternador Hextech [3145] — 1100 oro | Venta 770
+Tipo: Componente | AP
+45 de Poder de Habilidad
+
+Acelerado
+Infligir daño a un campeón le inflige daño mágico adicional.
+
+Se construye con: Libro Amplificador, Libro Amplificador
+Mejora a: Lumbría, Sablepistola Hextech, Eco de Luden, Cinturón Cohete Hextech, Descarga Tormentosa
+Considerado en fichas de: Ahri, Akali, Aurora, Diana, Ekko, Elise, Evelynn, Fizz, Kassadin, Katarina, Kennen, LeBlanc, Locke, Nidalee, Vladimir, Anivia, Annie, Aurelion Sol, Brand, Cassiopeia, Fiddlesticks, Heimerdinger, Hwei, Karthus, Lissandra, Lux, Malzahar, Mel, Morgana, Neeko, Orianna, Ryze, Syndra, Taliyah, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra
+
+------------------------------------------------------------
+Sablepistola Hextech [3146] — 3000 oro | Venta 2100
+Tipo: Completo | AP, AD
+80 de Poder de Habilidad
+40 de Daño de Ataque
+10% de Omnivampirismo
+
+ACTIVA ([valor dinámico] seg)
+Relámpago
+Lanza una descarga al campeón enemigo objetivo, inflige [valor dinámico] de daño mágico y lo ralentiza en un 25% durante 1.5 seg.
+
+Se construye con: Cetro Vampírico, Alternador Hextech, Libro Amplificador
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Antifaz Embrujado [3147] — 1300 oro | Venta 910
+Tipo: Componente | AP, Defensa
+30 de Poder de Habilidad
+200 de Vida
+
+Locura
+Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un máximo del 6%.
+
+Se construye con: Libro Amplificador, Cristal de Rubí
+Mejora a: Maldición de la Vampiresa, Agrietador, El Tormento de Liandry
+Considerado en fichas de: Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Sylas, Udyr, Volibear, Diana, Anivia, Aurelion Sol, Azir, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah
+
+------------------------------------------------------------
+Cinturón Cohete Hextech [3152] — 2650 oro | Venta 1855
+Tipo: Completo | AP, Defensa, Aceleración
+60 de Poder de Habilidad
+350 de Vida
+10 de Aceleración de Habilidad
+
+Supersónico
+Te desplazas en la dirección objetivo y liberas misiles que infligen daño mágico.
+
+Se construye con: Alternador Hextech, Gemaluz, Cristal de Rubí
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Aurora, Diana, Ekko, Elise, Evelynn, Fizz, Kassadin, Katarina, Kennen, LeBlanc, Locke, Nidalee, Vladimir
+
+------------------------------------------------------------
+Espada del Rey Arruinado [3153] — 3200 oro | Venta 2240
+Tipo: Completo | AD, Ataques
+40 de Daño de Ataque
+25% de Velocidad de Ataque
+10% de Robo de Vida
+
+Filo Neblina
+Los ataques infligen un porcentaje de la vida actual del enemigo como daño físico adicional al impacto.
+
+Sombras Desgarradoras
+Atacar a un campeón tres veces lo ralentiza en un 30% durante 1 seg.
+
+Se construye con: Cetro Vampírico, Arco Recurvado, Picacha
+Mejora a: —
+Considerado en fichas de: Bel'Veth, Irelia, Jax, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Nilah, Tryndamere, Varus, Vayne, Viego, Warwick, Yasuo, Yone
+
+------------------------------------------------------------
+Sorbechizos [3155] — 1300 oro | Venta 910
+Tipo: Componente | AD, Defensa
+25 de Daño de Ataque
+25 de Resistencia Mágica
+
+Salvavidas
+Tras recibir daño mágico que reduciría tu Vida por debajo de un 30%, obtienes un escudo contra daño mágico durante 2.5 seg.
+
+Se construye con: Espada Larga, Manto Anulamagia, Espada Larga
+Mejora a: Fauces de Malmortius
+Considerado en fichas de: Aatrox, Ambessa, Bel'Veth, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Irelia, Jax, Kai'Sa, Kalista, Kindred, Kled, Kog'Maw, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Varus, Vayne, Vi, Viego, Xin Zhao, Yorick, Zaahen
+
+------------------------------------------------------------
+Fauces de Malmortius [3156] — 3100 oro | Venta 2170
+Tipo: Completo | AD, Aceleración, Defensa
+60 de Daño de Ataque
+15 de Aceleración de Habilidad
+40 de Resistencia Mágica
+
+Salvavidas
+Tras recibir daño mágico que reduciría tu Vida por debajo de un 30%, obtienes un escudo contra daño mágico durante 3 seg y un 10% de Omnivampirismo hasta el final del combate.
+
+Se construye con: Sorbechizos, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Bel'Veth, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Irelia, Jax, Kai'Sa, Kalista, Kindred, Kled, Kog'Maw, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Varus, Vayne, Vi, Viego, Xin Zhao, Yorick, Zaahen
+
+------------------------------------------------------------
+Reloj de Arena de Zhonya [3157] — 3250 oro | Venta 2275
+Tipo: Completo | AP, Defensa
+105 de Poder de Habilidad
+50 de Armadura
+
+Detener el Tiempo
+Entras en Estasis durante 2.5 seg.
+
+Se construye con: Vara Innecesariamente Grande, Guardabrazo del Buscador
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lillia, Lissandra, Locke, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Nidalee, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Teemo, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra, Volibear
+
+------------------------------------------------------------
+Botas Jonias de la Lucidez [3158] — 900 oro | Venta 630
+Tipo: Componente | Aceleración, Botas
+10 de Aceleración de Habilidad
+45 de Velocidad de Movimiento
+
+Percepción Jonia
+Obtienes 10 de Aceleración de Hechizos de invocador.
+
+Se construye con: Botas, Mena Brillante
+Mejora a: Botas de Lucidez Carmesí 
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Lanza de Shojin [3161] — 3100 oro | Venta 2170
+Tipo: Completo | AD, Defensa
+45 de Daño de Ataque
+450 de Vida
+
+Fuerza del Dragón 
+Obtienes 25 de Aceleración de Habilidad para habilidades básicas.
+
+Voluntad Enfocada 
+Al infligir daño con habilidades, el daño de las habilidades y de la pasiva de tu campeón aumenta en un 3% durante 6 seg. (Se acumula 4 veces).
+
+Se construye con: Picacha, Excavador de Túneles, Cristal de Rubí
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Briar, Camille, Darius, Ezreal, Fiora, Garen, Gnar, Hecarim, Illaoi, Jarvan IV, Jax, Kayn, Kled, Lee Sin, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Yorick, Zaahen
+
+------------------------------------------------------------
+Morellonomicón [3165] — 2850 oro | Venta 1995
+Tipo: Completo | AP, Defensa, Aceleración
+75 de Poder de Habilidad
+350 de Vida
+15 de Aceleración de Habilidad
+
+Heridas Graves
+Infligir daño mágico a campeones les aplica un 40% de Heridas Graves durante 3 seg.
+
+Se construye con: Orbe del Olvido, Varita Explosiva, Gemaluz
+Mejora a: —
+Considerado en fichas de: Diana, Evelynn, Volibear, Ekko
+
+------------------------------------------------------------
+Camino Inmortal [3168] — 1100 oro | Venta 770
+Tipo: Completo | Botas
+45 de Velocidad de Movimiento
+4% de Omnivampirismo
+
+Exterminar
+Al derribar campeones, obtienes un 0.6% de Omnivampirismo. El efecto se acumula hasta 10 veces.
+
+Ahora y Siempre
+Cuando tienes más de la mitad de vida, infliges un 4% más de daño.
+
+Cuando tienes menos de la mitad de vida, obtienes un 12% más de curaciones, escudos y regeneración.
+
+Se construye con: Grebas Glotonas
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Botas de Marcha Rápida [3170] — 1000 oro | Venta 700
+Tipo: Completo | Botas
+65 de Velocidad de Movimiento
+
+Pies ligeros
+Reduce la eficacia de los efectos de ralentización en un 25%.
+
+Fervor Noxiano
+Obtienes un 5% de tu Velocidad de Movimiento como fuerza adaptable.
+
+Se construye con: Botas de Rapidez
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Botas de Lucidez Carmesí  [3171] — 900 oro | Venta 630
+Tipo: Completo | Aceleración, Botas
+20 de Aceleración de Habilidad
+45 de Velocidad de Movimiento
+
+Percepción Jonia
+Obtienes 20 de Aceleración de Hechizos de invocador.
+
+Aceleración Noxiana
+Potenciar o proteger aliados con habilidades, infligir daño a campeones enemigos con habilidades, o lanzar un hechizo de invocador otorga [valor dinámico] de Velocidad de Movimiento durante 4 seg.
+
+Aceleración Noxiana solo puede activarse una vez por cada lanzamiento de habilidad.
+
+Se construye con: Botas Jonias de la Lucidez
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Grebas de Armacero [3172] — 1100 oro | Venta 770
+Tipo: Completo | Ataques
+45% de Velocidad de Ataque
+45 de Velocidad de Movimiento
+5% de Robo de Vida
+
+
+
+Se construye con: Grebas del Berserker
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Trituradoras Aceradas [3173] — 1250 oro | Venta 875
+Tipo: Completo | Defensa, Botas
+25 de Resistencia Mágica
+45 de Velocidad de Movimiento
+30% de Tenacidad
+
+Persistencia Noxiana ([valor dinámico] seg)
+Tras recibir daño mágico de un campeón, obtienes un escudo que protege contra [valor dinámico] de daño mágico durante 5 seg.
+
+Se construye con: Botas de Mercurio
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Blindadas de Avance  [3174] — 1200 oro | Venta 840
+Tipo: Completo | Defensa, Botas
+35 de Armadura
+45 de Velocidad de Movimiento
+
+Revestimiento
+Reduce el daño recibido de los ataques en un 10%.
+
+Resistencia Noxiana ([valor dinámico] seg)
+Tras recibir daño físico de un campeón, obtienes un escudo que protege contra [valor dinámico] de daño físico durante 5 seg.
+
+Se construye con: Punteras de Acero Revestidas
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Zapatos de Lanzahechizos [3175] — 1100 oro | Venta 770
+Tipo: Completo | Botas
+20 de Penetración de Magia
+8% Penetración de Magia
+45 de Velocidad de Movimiento
+
+
+
+Se construye con: Botas del Hechicero
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Espada del Guardián [3177] — 950 oro | Venta 665
+Tipo: Completo | AD, Defensa, Aceleración
+30 de Daño de Ataque
+150 de Vida
+15 de Aceleración de Habilidad
+
+
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Espada de la Penumbra [3179] — 2800 oro | Venta 1960
+Tipo: Completo | AD, Letalidad, Aceleración
+60 de Daño de Ataque
+18 de Letalidad
+15 de Aceleración de Habilidad
+
+Acechador Nocturno
+Si tus enemigos no te ven durante unos segundos, tu siguiente ataque contra un campeón inflige daño verdadero adicional.
+
+Apagón
+Cuando estás cerca de trampas y centinelas invisibles enemigos, los revelas durante unos segundos. Al revelar centinelas, tus ataques les infligen daño adicional.
+
+Se construye con: Puñal Serrado, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Pyke, Senna, Kha'Zix, Kayn, Nocturne
+
+------------------------------------------------------------
+Rompecascos [3181] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Defensa
+40 de Daño de Ataque
+500 de Vida
+4% de Velocidad de Movimiento
+
+Capitán
+Cada quinto ataque contra campeones y monstruos épicos inflige daño físico adicional (aumenta contra estructuras).
+
+Tripulación de Abordaje
+Los supersúbditos y los súbditos de asedio aliados cercanos obtienen armadura y resistencia mágica.
+
+Se construye con: Excavador de Túneles, Placa Lunar Alada, Picacha
+Mejora a: —
+Considerado en fichas de: Jax
+
+------------------------------------------------------------
+Martillo del Guardián [3184] — 950 oro | Venta 665
+Tipo: Completo | AD, Defensa
+25 de Daño de Ataque
+150 de Vida
+5% de Robo de Vida
+
+
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Relicario de los Solari de Hierro [3190] — 2200 oro | Venta 1540
+Tipo: Completo | Defensa, Aceleración
+200 de Vida
+30 de Armadura
+30 de Resistencia Mágica
+10 de Aceleración de Habilidad
+
+Devoción
+Otorga a los aliados cercanos de 290 a 360 de escudo que decae a lo largo de 2.5 seg.
+
+Se construye con: Gemaluz, Armadura de Tela, Manto Anulamagia
+Mejora a: —
+Considerado en fichas de: Alistar, Blitzcrank, Braum, Jarvan IV, Leona, Nautilus, Rakan, Rell, Taric, Thresh
+
+------------------------------------------------------------
+Hábito del Espectro [3211] — 1250 oro | Venta 875
+Tipo: Componente | Defensa
+200 de Vida
+35 de Resistencia Mágica
+100% de Regen. de Vida Básica
+
+
+
+Se construye con: Cristal de Rubí, Manto Anulamagia, Perla de Rejuvenecimiento
+Mejora a: Rukerno Kaénico, Apariencia Espiritual, Resplandor Vacío
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego, Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr
+
+------------------------------------------------------------
+Bendición de Mikael [3222] — 2300 oro | Venta 1610
+Tipo: Completo | Defensa, Aceleración
+250 de Vida
+100% de Regen. de Maná Básica
+12% de poder de curaciones y escudos
+15 de Aceleración de Habilidad
+
+Purificar
+Elimina todas las debilitaciones de control de masas (excepto lanzamientos por el aire y supresiones) de un campeón aliado y restaura de 100 a 250 de Vida.
+
+Se construye con: Gemaluz, Ídolo Prohibido
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Terminus [3302] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Ataques
+30 de Daño de Ataque
+35% de Velocidad de Ataque
+
+Sombra
+Los ataques infligen [valor dinámico] de daño mágico adicional al impacto.
+
+Yuxtaposición
+Alterna entre ataques de Luz y Oscuridad contra campeones: Los ataques de Luz otorgan armadura y resistencia mágica durante 5 seg. Los ataques de Oscuridad otorgan un 10% de Penetración de Armadura y de Penetración de Magia durante 5 seg.
+
+Se construye con: Hacha Hogareña, Arco Recurvado
+Mejora a: —
+Considerado en fichas de: Bel'Veth, Irelia, Kai'Sa, Kalista, Kindred, Kog'Maw, Maestro Yi, Varus, Vayne, Viego, Jax
+
+------------------------------------------------------------
+Centinela Invisible [3340] — 0 oro | Venta 0
+Tipo: Especial | 
+
+Activa (210 a 90 seg, máx. 2 cargas)
+Colocas un centinela invisible que otorga visión durante 90 a 120 seg.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Alteración de Visión Lejana [3363] — 0 oro | Venta 0
+Tipo: Especial | 
+
+Activa (198 a 99 seg)
+Revela un área distante durante 2 seg y deja un Centinela que expira al detectar a un campeón enemigo.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Lente del Oráculo [3364] — 0 oro | Venta 0
+Tipo: Especial | 
+
+Activa (160 a 100 seg, máx. 2 cargas)
+Revela los Centinelas Invisibles y las trampas enemigas a tu alrededor durante 8 seg.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Aatrox, Ahri, Akali, Akshan, Alistar, Ambessa, Amumu, Anivia, Annie, Aphelios, Ashe, Aurelion Sol, Aurora, Azir, Bardo, Bel'Veth, Blitzcrank, Brand, Braum, Briar, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Draven, Dr. Mundo, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Hwei, Illaoi, Irelia, Ivern, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Kha'Zix, Kindred, Kled, Kog'Maw, K'Sante, LeBlanc, Lee Sin, Leona, Lillia, Lissandra, Locke, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, Maestro Yi, Mel, Milio, Miss Fortune, Wukong, Mordekaiser, Morgana, Naafiri, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu y Willump, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, Rek'Sai, Rell, Renata Glasc, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Smolder, Sona, Soraka, Swain, Sylas, Syndra, Tahm Kench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, Twisted Fate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Vel'Koz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, Xin Zhao, Yasuo, Yone, Yorick, Yunara, Yuumi, Zaahen, Zac, Zed, Zeri, Ziggs, Zilean, Zoe, Zyra
+
+------------------------------------------------------------
+Pebetero Ardiente [3504] — 2200 oro | Venta 1540
+Tipo: Completo | AP
+45 de Poder de Habilidad
+10% de poder de curaciones y escudos
+125% de Regen. de Maná Básica
+4% de Velocidad de Movimiento
+
+Santificación
+Curar o escudar a un aliado los mejora a ambos durante 6 seg, lo que les otorga un 25% de Velocidad de Ataque y 20 de daño mágico al impacto.
+
+Se construye con: Brisa de Éter, Ídolo Prohibido
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi
+
+------------------------------------------------------------
+Saqueador de Esencias [3508] — 3050 oro | Venta 2135
+Tipo: Completo | AD, Aceleración
+50 de Daño de Ataque
+20 de Aceleración de Habilidad
+25% de Probabilidad de Golpe Crítico
+
+Espada Encantada
+Después de usar una habilidad, tu siguiente ataque inflige daño físico adicional y otorga maná al impacto.
+
+Se construye con: Brillo, Martillo de Guerra de Caulfield, Capa de Agilidad
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Placa del Hombre Muerto [3742] — 2900 oro | Venta 2030
+Tipo: Completo | Defensa
+350 de Vida
+55 de Armadura
+4% de Velocidad de Movimiento
+
+Hundebarcos
+Al desplazarte, acumulas hasta 20 de Velocidad de Movimiento adicional. Tu próximo ataque descarga la velocidad de movimiento acumulada e inflige daño físico adicional.
+
+Inhundible
+Reduce la eficacia de las ralentizaciones en un 15%.
+
+Se construye con: Placa Lunar Alada, Cristal de Rubí, Cota de Malla
+Mejora a: —
+Considerado en fichas de: Volibear, Xin Zhao, Nocturne, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Hidra Titánica [3748] — 3300 oro | Venta 2310
+Tipo: Completo | AD, Defensa
+40 de Daño de Ataque
+600 de Vida
+
+Hender
+Los ataques infligen daño físico al impacto y a los enemigos detrás del objetivo.
+Creciente Titánica
+Potencia tu próximo Hender para que inflija daño físico adicional al impacto y daño físico adicional a los enemigos detrás del objetivo.
+
+Se construye con: Tiamat, Excavador de Túneles, Cinturón de Gigante
+Mejora a: —
+Considerado en fichas de: Darius, Garen, Illaoi, Sett, Urgot, Warwick, Xin Zhao, Yorick
+
+------------------------------------------------------------
+Brazal Cristalino [3801] — 800 oro | Venta 560
+Tipo: Componente | Defensa
+200 de Vida
+100% de Regen. de Vida Básica
+
+
+
+Se construye con: Cristal de Rubí, Perla de Rejuvenecimiento
+Mejora a: Corazón de Acero, Armadura de Warmog
+Considerado en fichas de: Volibear, Warwick, Jarvan IV
+
+------------------------------------------------------------
+Capítulo Perdido [3802] — 1200 oro | Venta 840
+Tipo: Componente | AP, Aceleración
+40 de Poder de Habilidad
+300 de Maná
+10 de Aceleración de Habilidad
+
+Iluminación
+Al subir de nivel, restaura un 20% del Maná Máximo a lo largo de 3 seg.
+
+Se construye con: Libro Amplificador, Cristal de Zafiro, Mena Brillante
+Mejora a: Actualizador, Báculo del Arcángel, Eco de Luden, Antorcha de Fuegoscuro, Maldad
+Considerado en fichas de: Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra, Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah
+
+------------------------------------------------------------
+Catalizador de Eones [3803] — 1300 oro | Venta 910
+Tipo: Componente | Defensa
+300 de Vida
+375 de Maná
+
+Eternidad
+Restaura un 10% del daño recibido de campeones como Maná. 
+Lanzar una habilidad cura por un 25% del Maná gastado.
+
+Se construye con: Cristal de Rubí, Cristal de Rubí, Cristal de Zafiro
+Mejora a: Vara de las Edades
+Considerado en fichas de: Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah
+
+------------------------------------------------------------
+Filo de la Noche [3814] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Letalidad, Defensa
+50 de Daño de Ataque
+15 de Letalidad
+250 de Vida
+
+Anulación
+Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.
+
+Se construye con: Puñal Serrado, Excavador de Túneles
+Mejora a: —
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Nocturne
+
+------------------------------------------------------------
+Mapamundi [3865] — 400 oro | Venta 160
+Tipo: Básico | 
+
+
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Alistar, Amumu, Annie, Ashe, Bardo, Blitzcrank, Brand, Braum, Fiddlesticks, Galio, Heimerdinger, Hwei, Ivern, Janna, Karma, Leona, Lulu, Lux, Maokai, Mel, Milio, Morgana, Nami, Nautilus, Neeko, Pantheon, Poppy, Pyke, Rakan, Rell, Renata Glasc, Senna, Seraphine, Shaco, Sona, Soraka, Swain, Tahm Kench, Taric, Thresh, Vel'Koz, Xerath, Yuumi, Zilean, Zyra
+
+------------------------------------------------------------
+Oposición Celestial [3869] — 400 oro | Venta 160
+Tipo: Básico | Defensa
+200 de Vida
+75% de Regen. de Vida Básica
+75% de Regen. de Maná Básica
+9 de oro cada 10 seg
+
+Bendición de la Montaña
+Reduce el daño recibido de campeones durante 2 seg tras recibir daño de un campeón. Al finalizar el efecto, ralentiza a los enemigos cercanos en un 50% durante 1.5 seg.
+Activa (4 cargas)
+Coloca un Centinela Invisible que otorga visión.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Tejesueños [3870] — 400 oro | Venta 160
+Tipo: Básico | Defensa
+200 de Vida
+75% de Regen. de Vida Básica
+75% de Regen. de Maná Básica
+9 de oro cada 10 seg
+
+Tejesueños
+Curar o escudar a otro aliado le lanza Burbujas de Sueño durante 3 seg. Su siguiente ataque inflige daño mágico adicional al impacto y reduce el próximo daño que reciba.Activa (4 cargas)
+Coloca un Centinela Invisible que otorga visión.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Espina Dimensional de Zaz'Zak [3871] — 400 oro | Venta 160
+Tipo: Básico | Defensa
+200 de Vida
+75% de Regen. de Vida Básica
+75% de Regen. de Maná Básica
+9 de oro cada 10 seg
+
+Explosión del Vacío
+Infligir daño a un campeón con una habilidad provoca una explosión que inflige daño mágico.
+
+Activa (4 cargas)
+Coloca un Centinela Invisible que otorga visión.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Trineo del Solsticio [3876] — 400 oro | Venta 160
+Tipo: Básico | Defensa
+200 de Vida
+75% de Regen. de Vida Básica
+75% de Regen. de Maná Básica
+9 de oro cada 10 seg
+
+Paseo en Trineo
+Ralentizar o inmovilizar a un campeón enemigo cerca de tus aliados restaura vida. Además, te otorga a ti y a un aliado cercano un 20% de Velocidad de Movimiento que decae a lo largo de 2.5 seg. Activa (4 cargas)
+Coloca un Centinela Invisible que otorga visión.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Canción de Sangre [3877] — 400 oro | Venta 160
+Tipo: Básico | Defensa
+200 de Vida
+75% de Regen. de Vida Básica
+75% de Regen. de Maná Básica
+9 de oro cada 10 seg
+
+Espada Encantada
+Después de usar una habilidad, tu siguiente ataque inflige daño físico adicional al impacto. Si el objetivo es un campeón, recibe daño aumentado durante 4 seg.Activa (4 cargas)
+Coloca un Centinela Invisible que otorga visión.
+
+Se construye con: —
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Orbe del Olvido [3916] — 800 oro | Venta 560
+Tipo: Componente | AP
+25 de Poder de Habilidad
+
+Heridas Graves
+Infligir daño mágico a campeones les aplica un 40% de Heridas Graves durante 3 seg.
+
+Se construye con: Libro Amplificador
+Mejora a: Morellonomicón
+Considerado en fichas de: Diana, Evelynn, Volibear, Ekko
+
+------------------------------------------------------------
+Mandato Imperial [4005] — 2400 oro | Venta 1680
+Tipo: Completo | AP, Aceleración
+60 de Poder de Habilidad
+15 de Aceleración de Habilidad
+150% de Regen. de Maná Básica
+
+Control
+Obtienes 20 de Aceleración de Habilidad para tus habilidades con efectos inmovilizadores.
+
+Orden
+Al inmovilizar a un campeón enemigo, lo marcas y lo vuelves un 7% Vulnerable durante 4 seg.
+
+Se construye con: Libro Amplificador, Espejo de Vitrobandle, Libro Amplificador
+Mejora a: —
+Considerado en fichas de: Zilean
+
+------------------------------------------------------------
+Fuerza de la Naturaleza [4401] — 2800 oro | Venta 1960
+Tipo: Completo | Defensa
+400 de Vida
+55 de Resistencia Mágica
+4% de Velocidad de Movimiento
+
+Firmeza
+Obtienes 70 de Resistencia Mágica y un 6% de Velocidad de Movimiento adicional tras recibir daño mágico de campeones 8 veces.
+
+Se construye con: Capa de Negatrones, Cristal de Rubí, Placa Lunar Alada
+Mejora a: —
+Considerado en fichas de: Alistar, Amumu, Blitzcrank, Braum, Cho'Gath, Dr. Mundo, Jarvan IV, K'Sante, Leona, Malphite, Maokai, Nautilus, Nunu y Willump, Ornn, Poppy, Rakan, Rammus, Rell, Sejuani, Shen, Sion, Skarner, Tahm Kench, Taric, Thresh, Volibear, Warwick, Zac, Xin Zhao, Nocturne, Jax, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Enfoque al Horizonte [4628] — 2700 oro | Venta 1890
+Tipo: Completo | AP, Aceleración
+75 de Poder de Habilidad
+25 de Aceleración de Habilidad
+
+Hiperdisparo
+Al infligir daño con habilidades a campeones que se encuentren a 600 o más de distancia, los revela durante 6 seg. 
+
+Enfoque
+Cuando se activa Hiperdisparo, se revelan los demás campeones enemigos en un radio de 1400 de alcance durante 3 seg.
+
+Se construye con: Códice Diabólico, Códice Diabólico, Libro Amplificador
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Impulso Cósmico [4629] — 3000 oro | Venta 2100
+Tipo: Completo | AP, Defensa, Aceleración
+70 de Poder de Habilidad
+350 de Vida
+25 de Aceleración de Habilidad
+4% de Velocidad de Movimiento
+
+Danza de Hechizos
+Infligir daño mágico o daño verdadero a campeones otorga Velocidad de Movimiento durante 4 seg.
+
+Se construye con: Gemaluz, Brisa de Éter, Códice Diabólico
+Mejora a: —
+Considerado en fichas de: Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Swain, Sylas, Udyr, Diana, Volibear
+
+------------------------------------------------------------
+Joya Maldita [4630] — 1100 oro | Venta 770
+Tipo: Componente | AP
+25 de Poder de Habilidad
+13% Penetración de Magia
+
+
+
+Se construye con: Libro Amplificador
+Mejora a: Báculo del Vacío, Criptorretoño
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lillia, Lissandra, Locke, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Nidalee, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Teemo, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra, Volibear, Zilean
+
+------------------------------------------------------------
+Barrera Esmeralda [4632] — 1600 oro | Venta 1120
+Tipo: Componente | AP, Defensa
+40 de Poder de Habilidad
+25 de Resistencia Mágica
+
+Anulación
+Otorga un escudo antihechizos que bloquea la siguiente habilidad de un enemigo.
+
+Se construye con: Libro Amplificador, Manto Anulamagia, Libro Amplificador
+Mejora a: Velo de la Banshee
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Azir, Brand, Cassiopeia, Diana, Ekko, Elise, Evelynn, Fiddlesticks, Fizz, Galio, Gragas, Gwen, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kayle, Kennen, LeBlanc, Lillia, Lissandra, Locke, Lux, Malzahar, Mel, Mordekaiser, Morgana, Neeko, Nidalee, Orianna, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Syndra, Taliyah, Teemo, Twisted Fate, Udyr, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zilean, Zoe, Zyra, Volibear
+
+------------------------------------------------------------
+Agrietador [4633] — 3100 oro | Venta 2170
+Tipo: Completo | AP, Defensa, Aceleración
+70 de Poder de Habilidad
+350 de Vida
+15 de Aceleración de Habilidad
+
+Corrupción del Vacío
+Por cada seg en combate contra campeones enemigos, infliges un 2% de daño adicional (hasta un 8%). Al tener el máximo de fuerza, obtienes Omnivampirismo.
+
+Infusión del Vacío
+Obtienes un 2% de tu Vida adicional como Poder de Habilidad.
+
+Se construye con: Antifaz Embrujado, Códice Diabólico
+Mejora a: —
+Considerado en fichas de: Galio, Gragas, Gwen, Lillia, Mordekaiser, Rumble, Shyvana, Singed, Sylas, Udyr, Volibear, Diana
+
+------------------------------------------------------------
+Espejo de Vitrobandle [4642] — 900 oro | Venta 630
+Tipo: Componente | AP, Aceleración
+20 de Poder de Habilidad
+100% de Regen. de Maná Básica
+10 de Aceleración de Habilidad
+
+
+
+Se construye con: Amuleto de las Hadas, Libro Amplificador, Mena Brillante
+Mejora a: Canto de Guerra de Shurelya, Ecos de Helia, Mandato Imperial, Renovador de Piedra Lunar
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi, Zilean
+
+------------------------------------------------------------
+Lumbría [4645] — 3200 oro | Venta 2240
+Tipo: Completo | AP
+110 de Poder de Habilidad
+15 de Penetración de Magia
+
+Flor de Ceniza
+El daño mágico y el daño verdadero asestan golpes críticos a los enemigos con menos de un 40% de Vida y les infligen un 20% más de daño.
+
+Se construye con: Alternador Hextech, Vara Innecesariamente Grande
+Mejora a: —
+Considerado en fichas de: Ahri, Akali, Anivia, Annie, Aurelion Sol, Aurora, Brand, Cassiopeia, Diana, Ekko, Elise, Fiddlesticks, Fizz, Heimerdinger, Hwei, Karthus, Kassadin, Katarina, Kennen, LeBlanc, Lissandra, Locke, Lux, Malzahar, Mel, Morgana, Neeko, Nidalee, Orianna, Ryze, Syndra, Taliyah, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Vladimir, Xerath, Ziggs, Zoe, Zyra
+
+------------------------------------------------------------
+Descarga Tormentosa [4646] — 2800 oro | Venta 1960
+Tipo: Completo | AP
+90 de Poder de Habilidad
+15 de Penetración de Magia
+6% de Velocidad de Movimiento
+
+Jinete de la Tormenta
+Infligir daño equivalente a un 25% de la Vida Máxima de un campeón en un lapso de 2.5 seg le aplica Aguacero.
+
+Aguacero
+Después de 2 seg, inflige daño mágico. Si el objetivo muere antes de que se active Aguacero, inflige daño a los enemigos cercanos.
+
+Se construye con: Alternador Hextech, Brisa de Éter
+Mejora a: —
+Considerado en fichas de: Kennen, Vladimir
+
+------------------------------------------------------------
+Danza de la Muerte [6333] — 3300 oro | Venta 2310
+Tipo: Completo | AD, Defensa, Aceleración
+60 de Daño de Ataque
+50 de Armadura
+15 de Aceleración de Habilidad
+
+Ignorar Dolor
+Un porcentaje del daño recibido se distribuye a lo largo de 3 seg.
+
+Desafiar
+Cuando un campeón muere en un lapso de 3 seg después de que le hayas infligido daño, se disipa el daño restante de Ignorar Dolor y recuperas vida a lo largo de 2 seg.
+
+Se construye con: Sello de Acero, Picacha, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Bel'Veth, Briar, Camille, Darius, Fiora, Garen, Gnar, Hecarim, Illaoi, Irelia, Jax, Kai'Sa, Kalista, Kayn, Kindred, Kled, Kog'Maw, Lee Sin, Maestro Yi, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Sett, Trundle, Urgot, Varus, Vayne, Vi, Viego, Warwick, Xin Zhao, Yorick, Zaahen
+
+------------------------------------------------------------
+Sierraespada Quimpunk [6609] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Defensa, Aceleración
+45 de Daño de Ataque
+450 de Vida
+15 de Aceleración de Habilidad
+
+Corte Mutilador
+Infligir daño físico aplica un 40% de Heridas a los campeones enemigos durante 3 seg.
+
+Se construye con: El Llamado del Verdugo, Cinturón de Gigante, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Xin Zhao, Nocturne, Volibear, Jax, Warwick, Jarvan IV, Wukong, Kayn, Vi, Viego
+
+------------------------------------------------------------
+Cielo Desgarrado [6610] — 3100 oro | Venta 2170
+Tipo: Completo | AD, Defensa, Aceleración
+40 de Daño de Ataque
+400 de Vida
+10 de Aceleración de Habilidad
+
+Golpe de Escudo de Luz
+Tu primer ataque contra un campeón asesta un golpe crítico y restaura vida.
+
+Se construye con: Excavador de Túneles, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Briar, Camille, Fiora, Gnar, Hecarim, Jarvan IV, Kayn, Kled, Lee Sin, Wukong, Nasus, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Trundle, Vi, Viego, Xin Zhao, Zaahen
+
+------------------------------------------------------------
+Báculo de Agua Fluyente [6616] — 2250 oro | Venta 1575
+Tipo: Completo | AP, Aceleración
+35 de Poder de Habilidad
+10% de poder de curaciones y escudos
+125% de Regen. de Maná Básica
+10 de Aceleración de Habilidad
+
+Rápidos
+Al curar u otorgar escudo a un aliado, ambos obtienen 40 de Poder de Habilidad y 15 de Aceleración de Habilidad durante 6 seg.
+
+Se construye con: Códice Diabólico, Ídolo Prohibido
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi
+
+------------------------------------------------------------
+Renovador de Piedra Lunar [6617] — 2200 oro | Venta 1540
+Tipo: Completo | AP, Defensa, Aceleración
+25 de Poder de Habilidad
+200 de Vida
+20 de Aceleración de Habilidad
+125% de Regen. de Maná Básica
+
+Gracia Estrellada
+Curar o escudar a un aliado extiende el efecto a otro aliado (que no seas tú), lo que cura un 30% o escuda un 35% de la cantidad original.
+
+Se construye con: Gemaluz, Espejo de Vitrobandle
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi
+
+------------------------------------------------------------
+Ecos de Helia [6620] — 2200 oro | Venta 1540
+Tipo: Completo | AP, Defensa, Aceleración
+35 de Poder de Habilidad
+200 de Vida
+20 de Aceleración de Habilidad
+125% de Regen. de Maná Básica
+
+Sifón del Alma
+Obtienes un 30% del daño infligido contra campeones antes de la mitigación como Cargas Álmicas. Al curar u otorgar escudo a un aliado, consumes todas las Cargas Álmicas para restaurarle vida.
+
+Se construye con: Gemaluz, Espejo de Vitrobandle
+Mejora a: —
+Considerado en fichas de: Bardo, Ivern, Janna, Karma, Lulu, Milio, Nami, Renata Glasc, Seraphine, Sona, Soraka, Yuumi
+
+------------------------------------------------------------
+Esfera del Amanecer [6621] — 2500 oro | Venta 1750
+Tipo: Completo | AP
+45 de Poder de Habilidad
+16% de poder de curaciones y escudos
+100% de Regen. de Maná Básica
+
+Primera Luz
+Obtienes un 2% de Curación y Poder de Escudo y 15 de Poder de Habilidad por cada 100% de Regeneración de Maná Básica.
+
+Se construye con: Varita Explosiva, Ídolo Prohibido, Ídolo Prohibido
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Rompeavances [6631] — 3300 oro | Venta 2310
+Tipo: Completo | AD, Ataques, Defensa
+40 de Daño de Ataque
+25% de Velocidad de Ataque
+450 de Vida
+
+Hender
+Los ataques infligen daño físico a los enemigos cercanos.
+Onda Rompiente
+Inflige daño físico y ralentiza a los enemigos cercanos en un 35%.
+Por cada campeón impactado, obtienes un 35% de Velocidad de Movimiento que decae durante 3 seg.
+
+Se construye con: Tiamat, Bacteriófago, Daga
+Mejora a: —
+Considerado en fichas de: Darius, Garen, Illaoi, Nocturne, Sett, Urgot, Yorick
+
+------------------------------------------------------------
+El Tormento de Liandry [6653] — 3000 oro | Venta 2100
+Tipo: Completo | AP, Defensa
+60 de Poder de Habilidad
+300 de Vida
+
+Tormento
+Infligir daño con habilidades quema a los enemigos por un 2% de su Vida Máxima como daño mágico por seg durante 3 seg.
+
+Sufrimiento
+Por cada seg en combate contra campeones enemigos, inflige un 2% de daño adicional, hasta un 6%.
+
+Se construye con: Antifaz Embrujado, Cenizas Predestinadas
+Mejora a: —
+Considerado en fichas de: Anivia, Aurelion Sol, Azir, Cassiopeia, Galio, Gragas, Gwen, Karthus, Lillia, Malzahar, Mordekaiser, Rumble, Ryze, Shyvana, Singed, Swain, Sylas, Taliyah, Udyr, Diana, Volibear
+
+------------------------------------------------------------
+Eco de Luden [6655] — 2750 oro | Venta 1925
+Tipo: Completo | AP, Aceleración
+100 de Poder de Habilidad
+600 de Maná
+10 de Aceleración de Habilidad
+
+Eco
+Las habilidades que infligen daño producen 6 ecos, que infligen de daño mágico adicional al objetivo y a los enemigos cercanos. Los ecos restantes se dirigen al objetivo principal e infligen un 20% del daño.
+
+Se construye con: Capítulo Perdido, Alternador Hextech
+Mejora a: —
+Considerado en fichas de: Annie, Brand, Fiddlesticks, Heimerdinger, Hwei, Lissandra, Lux, Mel, Morgana, Neeko, Orianna, Syndra, Twisted Fate, Veigar, Vel'Koz, Vex, Viktor, Xerath, Ziggs, Zoe, Zyra
+
+------------------------------------------------------------
+Vara de las Edades [6657] — 2600 oro | Venta 1820
+Tipo: Completo | AP, Defensa
+45 de Poder de Habilidad
+350 de Vida
+500 de Maná
+
+Atemporal
+Este objeto obtiene 10 de Vida, 30 de Maná y 3 de Poder de Habilidad cada 60 seg hasta 10 veces. Al alcanzar el máximo de acumulaciones, subes un nivel.
+
+Eternidad
+Recibir daño de campeones restaura un 10% del daño como Maná. 
+Lanzar una habilidad cura por un 25% del Maná gastado.
+
+Se construye con: Varita Explosiva, Catalizador de Eones
+Mejora a: —
+Considerado en fichas de: Anivia, Aurelion Sol, Cassiopeia, Karthus, Malzahar, Ryze, Swain, Taliyah
+
+------------------------------------------------------------
+Ceniza de Bami [6660] — 900 oro | Venta 630
+Tipo: Componente | Defensa, Aceleración
+150 de Vida
+5 de Aceleración de Habilidad
+
+Inmolar
+Tras recibir o infligir daño, infliges daño mágico a los enemigos cercanos durante 3 seg.
+
+Se construye con: Cristal de Rubí, Mena Brillante
+Mejora a: Égida de Fuego Solar, Resplandor Vacío
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Volibear, Warwick, Jarvan IV
+
+------------------------------------------------------------
+Guantelete del Hijo del Hielo [6662] — 2900 oro | Venta 2030
+Tipo: Completo | Defensa, Aceleración
+300 de Vida
+50 de Armadura
+15 de Aceleración de Habilidad
+
+Espada Encantada
+Después de usar una habilidad, tu siguiente ataque inflige daño físico adicional al impacto y crea un campo congelado que ralentiza durante 2 seg.
+
+Se construye con: Brillo, Cristal de Rubí, Cota de Malla
+Mejora a: —
+Considerado en fichas de: Volibear
+
+------------------------------------------------------------
+Resplandor Vacío [6664] — 2800 oro | Venta 1960
+Tipo: Completo | Defensa, Aceleración
+400 de Vida
+40 de Resistencia Mágica
+10 de Aceleración de Habilidad
+100% de Regen. de Vida Básica
+
+Inmolar
+Tras recibir o infligir daño, infliges daño mágico por seg a los enemigos cercanos durante 3 seg. 
+
+Desolar
+Matar a un enemigo inflige daño mágico a su alrededor.
+
+Se construye con: Ceniza de Bami, Hábito del Espectro
+Mejora a: —
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Zac, Volibear, Warwick, Jarvan IV
+
+------------------------------------------------------------
+Jak'Sho, el Proteico [6665] — 3200 oro | Venta 2240
+Tipo: Completo | Defensa
+350 de Vida
+45 de Armadura
+45 de Resistencia Mágica
+
+Resiliencia del Vacuonato
+Después de 5 seg de combate contra campeones, aumenta tu Armadura y Resistencia Mágica adicionales en un 30% hasta el final del combate.
+
+Se construye con: Cinturón de Gigante, Cota de Malla, Capa de Negatrones
+Mejora a: —
+Considerado en fichas de: Amumu, Cho'Gath, Dr. Mundo, K'Sante, Malphite, Maokai, Nunu y Willump, Ornn, Poppy, Rammus, Sejuani, Shen, Sion, Skarner, Tahm Kench, Volibear, Warwick, Zac
+
+------------------------------------------------------------
+Carcaj de Mediodía [6670] — 1300 oro | Venta 910
+Tipo: Componente | AD
+15 de Daño de Ataque
+20% de Probabilidad de Golpe Crítico
+
+
+
+Se construye con: Espada Larga, Capa de Agilidad
+Mejora a: Hexóptica C44, Recuerdos de Lord Dominik, Arcoescudo Inmortal
+Considerado en fichas de: Akshan, Aphelios, Ashe, Caitlyn, Corki, Draven, Gangplank, Graves, Jayce, Jhin, Jinx, Lucian, Miss Fortune, Nilah, Quinn, Samira, Senna, Sivir, Smolder, Tristana, Tryndamere, Twitch, Xayah, Yasuo, Yone, Yunara, Zeri
+
+------------------------------------------------------------
+Matakrakens [6672] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Ataques
+45 de Daño de Ataque
+40% de Velocidad de Ataque
+4% de Velocidad de Movimiento
+
+Derríbalo
+Cada tercer ataque inflige daño físico adicional al impacto. Este daño aumenta según la vida faltante del objetivo.
+
+Se construye con: Rectriz, Hacha Hogareña, Arco Recurvado
+Mejora a: —
+Considerado en fichas de: Akshan, Aphelios, Ashe, Bel'Veth, Caitlyn, Corki, Draven, Graves, Irelia, Jayce, Jinx, Kai'Sa, Kalista, Kindred, Kog'Maw, Lucian, Maestro Yi, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Varus, Vayne, Viego, Xayah, Yunara, Zeri, Jax
+
+------------------------------------------------------------
+Arcoescudo Inmortal [6673] — 3000 oro | Venta 2100
+Tipo: Completo | AD
+55 de Daño de Ataque
+25% de Probabilidad de Golpe Crítico
+
+Salvavidas
+Al recibir daño que reduciría tu Vida por debajo de un 30%, te otorga un escudo durante 3 seg.
+
+Se construye con: Picacha, Carcaj de Mediodía
+Mejora a: —
+Considerado en fichas de: Nilah, Tryndamere, Yasuo, Yone
+
+------------------------------------------------------------
+Cuchilla Rauda de Navori [6675] — 2650 oro | Venta 1855
+Tipo: Completo | Ataques
+40% de Velocidad de Ataque
+25% de Probabilidad de Golpe Crítico
+4% de Velocidad de Movimiento
+
+Trascendencia
+Tus ataques reducen los enfriamientos de tus habilidades básicas en un 15% de su enfriamiento restante.
+
+Se construye con: Daga, Fervor, Daga
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+El Coleccionista [6676] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Letalidad
+50 de Daño de Ataque
+10 de Letalidad
+25% de Probabilidad de Golpe Crítico
+
+Muerte
+Tu daño ejecuta a los campeones que están por debajo de un 5% de Vida. 
+
+Impuestos
+Los asesinatos de campeones otorgan 25 de oro adicional.
+
+Se construye con: Picacha, Puñal Serrado, Capa de Agilidad
+Mejora a: —
+Considerado en fichas de: Jhin
+
+------------------------------------------------------------
+Rectriz [6690] — 775 oro | Venta 543
+Tipo: Componente | AD
+15 de Daño de Ataque
+4% de Velocidad de Movimiento
+
+
+
+Se construye con: Espada Larga
+Mejora a: Matakrakens, Espada Fantasma de Youmuu
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Akshan, Aphelios, Ashe, Bel'Veth, Caitlyn, Corki, Draven, Graves, Irelia, Jayce, Jinx, Kai'Sa, Kalista, Kindred, Kog'Maw, Lucian, Maestro Yi, Miss Fortune, Quinn, Samira, Sivir, Smolder, Tristana, Twitch, Varus, Vayne, Viego, Xayah, Yunara, Zeri, Jax
+
+------------------------------------------------------------
+Eclipse [6692] — 2900 oro | Venta 2030
+Tipo: Completo | AD, Aceleración
+60 de Daño de Ataque
+15 de Aceleración de Habilidad
+
+Luna Eterna
+Al impactar a un campeón con dos ataques o habilidades diferentes en un lapso de 2 seg, obtienes un escudo durante 2 seg.
+
+Se construye con: Martillo de Guerra de Caulfield, Picacha, Espada Larga
+Mejora a: —
+Considerado en fichas de: Aatrox, Ambessa, Briar, Camille, Fiora, Gnar, Hecarim, Jarvan IV, Kayn, Kled, Lee Sin, Wukong, Nasus, Nocturne, Olaf, Pantheon, Rek'Sai, Renekton, Riven, Trundle, Vi, Zaahen
+
+------------------------------------------------------------
+Rencor de Serylda [6694] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Aceleración
+45 de Daño de Ataque
+35% de Penetración de Armadura
+15 de Aceleración de Habilidad
+
+Frío Implacable
+Las habilidades de daño ralentizan a los enemigos con menos del 50% de Vida en un 30% durante 1 seg.
+
+Se construye con: Martillo de Guerra de Caulfield, Último Suspiro
+Mejora a: —
+Considerado en fichas de: Ezreal, Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Nocturne
+
+------------------------------------------------------------
+Colmillo de Serpiente [6695] — 2500 oro | Venta 1750
+Tipo: Completo | AD, Letalidad
+55 de Daño de Ataque
+15 de Letalidad
+
+Rompeescudos
+Infligir daño a un campeón enemigo reduce el escudo que obtenga en un 0% durante 3 seg. 
+Si no está bajo los efectos de Rompeescudos, reduce los escudos que tenga en un 0%.
+
+Se construye con: Puñal Serrado, Picacha
+Mejora a: —
+Considerado en fichas de: Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed, Kha'Zix, Kayn, Nocturne
+
+------------------------------------------------------------
+Arco Axiomático [6696] — 2750 oro | Venta 1925
+Tipo: Completo | AD, Letalidad, Aceleración
+55 de Daño de Ataque
+18 de Letalidad
+20 de Aceleración de Habilidad
+
+Flujo
+Cuando un campeón muere en un lapso de 3 seg después de haberle infligido daño, se restaura un porcentaje del enfriamiento total de tu habilidad definitiva.
+
+Se construye con: El Brutalizador, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Arrogancia [6697] — 2800 oro | Venta 1960
+Tipo: Completo | AD, Letalidad, Aceleración
+55 de Daño de Ataque
+18 de Letalidad
+10 de Aceleración de Habilidad
+
+Eminencia
+Cuando un campeón al que le infligiste daño muere en 3 seg, obtienes [valor dinámico] de Daño de Ataque más [valor dinámico] por cada campeón asesinado durante 90 seg.
+
+Se construye con: Puñal Serrado, Martillo de Guerra de Caulfield
+Mejora a: —
+Considerado en fichas de: Kha'Zix
+
+------------------------------------------------------------
+Hidra Profana [6698] — 2850 oro | Venta 1995
+Tipo: Completo | AD, Letalidad, Aceleración
+55 de Daño de Ataque
+18 de Letalidad
+10 de Aceleración de Habilidad
+
+Hender
+Los ataques infligen daño físico a los enemigos cercanos.
+Corte Herético
+Inflige daño físico a tu alrededor.
+
+Se construye con: Tiamat, El Brutalizador
+Mejora a: —
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Cicloespada Voltaica [6699] — 3000 oro | Venta 2100
+Tipo: Completo | AD, Letalidad, Aceleración
+55 de Daño de Ataque
+10 de Letalidad
+10 de Aceleración de Habilidad
+
+Galvanizar
+Infligir daño a campeones enemigos con una habilidad activa el efecto Energizado si está listo.
+
+Firmamento
+Los ataques energizados infligen un porcentaje de la vida actual del objetivo como daño físico adicional y te otorgan letalidad adicional durante 4 seg.
+
+Se construye con: El Brutalizador, Espada Larga, Espada Larga
+Mejora a: —
+Considerado en fichas de: Kayn, Kha'Zix, Naafiri, Pyke, Qiyana, Rengar, Shaco, Talon, Zed
+
+------------------------------------------------------------
+Maldición de la Vampiresa [8010] — 2900 oro | Venta 2030
+Tipo: Completo | AP, Defensa, Aceleración
+65 de Poder de Habilidad
+400 de Vida
+15 de Aceleración de Habilidad
+
+Deterioro Vil
+Al infligir daño mágico a campeones con pasivas y habilidades, reduces la Resistencia Mágica del objetivo en un 7.5% durante 6 seg. (El efecto se puede acumular hasta 4 veces).
+
+Se construye con: Antifaz Embrujado, Códice Diabólico
+Mejora a: —
+Considerado en fichas de: Consulta general
+
+------------------------------------------------------------
+Máscara Abisal [8020] — 2650 oro | Venta 1855
+Tipo: Completo | Defensa, Aceleración
+350 de Vida
+45 de Resistencia Mágica
+15 de Aceleración de Habilidad
+
+Deshacer
+Los campeones enemigos cercanos reciben un 12% más de daño mágico.
+
+Se construye con: Gemaluz, Capa de Negatrones
+Mejora a: —
+Considerado en fichas de: Volibear, Warwick, Jarvan IV
